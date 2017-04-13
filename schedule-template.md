@@ -32,7 +32,7 @@
 <td><strong>2:00pm - 3:30pm Module 3</strong></td>
 <td><!--Monday Afternoon--></td>
 <td><!--Tuesday Afternoon--></td>
-<td><!--Wednesday Afternoon-->Control Flow</td>
+<td><!--Wednesday Afternoon--></td>
 <td><!--Thursday Afternoon--></td>
 <td><!--Friday Afternoon--></td>
 </tr>
