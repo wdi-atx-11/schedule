@@ -1,63 +1,6 @@
 
 ![General Assembly WDI-ATX-11](https://cloud.githubusercontent.com/assets/4304660/24909320/46e07912-1e78-11e7-9424-8dc62f005e53.jpg)
 
-## Unit 1: Front-End Development
-#### Week 1 - Fundamentals Review
-<table><thead>
-<tr>
-<th>Time</th>
-<th>Day 1</th>
-<th>Day 2</th>
-<th>Day 3</th>
-<th>Day 4</th>
-<th>Day  5</th>
-</tr>
-</thead><tbody>
-<tr>
-<td><strong>9:00am - 10:30am Module 1</strong></td>
-<td><!--Monday Drills-->Introductions</td>
-<td><!--Tuesday Drills-->Kyrel Drills</td>
-<td><!--Wednesday Drills-->Kyrel Drills</td>
-<td><!--Thursday Drills-->Kyrel Drills</td>
-<td><!--Friday Drills-->Friday Rewind</td>
-</tr>
-
-<tr>
-<td><strong>10:30am - 1:00pm Module 2</strong></td>
-<td><!--Monday Morning-->Icebreakers, Values, and Scenarios</td>
-<td><!--Tuesday Morning-->HTML & CSS</td>
-<td><!--Wednesday Morning-->Javascript Datatypes</td>
-<td><!--Thursday Morning-->Functions</td>
-<td><!--Friday Morning-->Tic-Tac-Toe</td>
-</tr>
-
-<tr>
-<td><strong>2:00pm - 3:30pm Module 3</strong></td>
-<td><!--Monday Afternoon-->Clients, Servers, and You!</td>
-<td><!--Tuesday Afternoon-->Git Good</td>
-<td><!--Wednesday Afternoon-->Control Flow</td>
-<td><!--Thursday Afternoon-->DOM Manipulation</td>
-<td><!--Friday Afternoon-->Tic-Tac-Toe</td>
-</tr>
-
-<tr>
-<td><strong>3:30pm - 4:30pm Module 4</strong></td>
-<td><!--Monday Dusk-->Fun with the Command Line!</td>
-<td><!--Tuesday Dusk-->Git Better</td>
-<td><!--Wednesday Dusk-->Chrome Dev Tools</td>
-<td><!--Thursday Dusk-->DOM Events</td>
-<td><!--Friday Dusk-->Tic-Tac-Toe</td>
-</tr>
-
-<tr>
-<td><strong>Training / Office Hours</strong></td>
-<td><!--Monday HW-->CLI Golf || CL-Mystery</td>
-<td><!--Tuesday HW-->Git Reading</td>
-<td><!--Wednesday HW-->Javascript Problem Sets</td>
-<td><!--Thursday HW-->Function Drills</td>
-<td><!--Friday HW-->Tic-Tac-Toe</td>
-</tr>
-</tbody></table>
 
 
 ## Important Dates
