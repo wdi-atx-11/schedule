@@ -65,6 +65,7 @@
 
 
 ## Important Dates
+  * **5/29** Memorial Day
   * **7/3 - 7/4** Fourth of July 
 
 ## Communication
