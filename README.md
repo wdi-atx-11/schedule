@@ -18,7 +18,7 @@
 <tr>
 <td><strong>9:00am - 10:30am Module 1</strong></td>
 <td>Introduction<!--Monday Drills--></td>
-<td><a href=" ">Personal Portfolio</a><!--Tuesday Drills--></td>
+<td><a href="https://github.com/wdi-atx-11/personal-portfolio">Personal Portfolio</a><!--Tuesday Drills--></td>
 <td><a href=" ">HTML/CSS</a><!--Wednesday Drills--></td>
 <td>Garnet && Squad Partitioning<!--Thursday Drills--></td>
 <td>Review<!--Friday Drills--></td>
