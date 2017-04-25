@@ -71,15 +71,15 @@
 ## Communication
   - You have been invited to the following Slack teams:
     - [GA Immersive Students](https://ga-students.slack.com)
-      - [#wdi-atx-11](https://ga-students.slack.com/messages/wdi-atx-11/)
+      - [#wdi-atx-11](https://ga-students.slack.com/messages/wdi-atx-11/) - for class-related info, links, questions
+      - [#wdi-atx-11-random](https://ga-students.slack.com/messages/wdi-atx-11/) - for gifs and really informal chatter
       - [#wdi-fundamentals](https://ga-students.slack.com/messages/wdi-fundamentals/)
     - [GA ATX Alumni](https://atx-alumni.slack.com) - Austin WDI Alumni (You will be invited end of course)
-  - For informal communication that doesn't need to be private, use the #wdi-atx-10 room
-  - If you need to talk to the instructors privately, use the Slack rooms we're creating for you with each of the instructors in it. Please don't Slack or email the instructors individually as this creates information asymmetry.
+
 
 ## Outcomes
 
-- [Outcomes Programming Syllabus]()
+- [Outcomes Programming Syllabus -COMING SOON!]()
 
 ## Slack Tips
 
