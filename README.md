@@ -98,3 +98,7 @@
   </pre>
 - These same backtick tricks also work on **GitHub** and **Slack**.
 - `@here`: Sends a message to everyone currently online in a Slack room
+  
+    
+## Pertinent Web Dev Industry Info  
+- [Stack Overflow's 2016 Developer Survey Results](http://stackoverflow.com/insights/survey/2016)
