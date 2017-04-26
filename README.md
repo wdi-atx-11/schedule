@@ -46,7 +46,7 @@
 <td><strong>3:30pm - 4:30pm Module 4</strong></td>
 <td><a href="https://github.com/wdi-atx-11/the-client-the-server-and-you">Clients, Servers, and You!</a><!--Monday Dusk--></td>
 <td><a href="https://github.com/justincastilla/git-team-training/blob/master/README.md">Git Drills</a><!--Tuesday Dusk--></td>
-<td><a href=" ">Mock-up Challenge</a><!--Wednesday Dusk--></td>
+<td><a href="https://github.com/wdi-atx-11/mockup-html-css-lab">Mock-up Challenge</a><!--Wednesday Dusk--></td>
 <td><a href=" ">CSS Frameworks</a><!--Thursday Dusk--></td>
 <td><a href=" ">Advanced CSS Lab</a><!--Friday Dusk--></td>
 </tr>
