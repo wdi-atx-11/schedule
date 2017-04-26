@@ -19,7 +19,7 @@
 <td><strong>9:00am - 10:30am Module 1</strong></td>
 <td>Introduction<!--Monday Drills--></td>
 <td><a href="https://github.com/wdi-atx-11/personal-portfolio">Personal Portfolio</a><!--Tuesday Drills--></td>
-<td><a href=" ">HTML/CSS</a><!--Wednesday Drills--></td>
+<td><a href="https://github.com/wdi-atx-11/html-css-review">HTML/CSS</a><!--Wednesday Drills--></td>
 <td>Garnet && Squad Partitioning<!--Thursday Drills--></td>
 <td>Review<!--Friday Drills--></td>
 </tr>
@@ -28,7 +28,7 @@
 <td><strong>10:30am - 1:00pm Module 2</strong></td>
 <td>Icebreakers && <a href="https://github.com/GA-WDI/installfest">Installfest</a><!--Monday Morning--></td>
 <td><a href="https://github.com/wdi-atx-11/git-github">Git</a><!--Tuesday Morning--></td>
-<td><a href=" ">HTML/CSS (contd.)</a> && Outcomes<!--Wednesday Morning--></td>
+<td><a href="https://github.com/wdi-atx-11/html-css-review">HTML/CSS (contd.)</a> && Outcomes<!--Wednesday Morning--></td>
 <td><a href=" ">Flexbox && Box Model </a><!--Thursday Morning--></td>
 <td><a href=" ">Advanced CSS Lab</a><!--Friday Morning--></td>
 </tr>
