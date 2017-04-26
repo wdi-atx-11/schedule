@@ -37,7 +37,7 @@
 <td><strong>2:00pm - 3:30pm Module 3</strong></td>
 <td><a href="https://github.com/wdi-atx-11/command-line">Command Line Interface</a><!--Monday Afternoon--></td>
 <td><a href="https://github.com/wdi-atx-11/github-and-more-git">Git(Hub)</a><!--Tuesday Afternoon--></td>
-<td><a href=" ">HTML Forms</a><!--Wednesday Afternoon--></td>
+<td><a href="https://github.com/wdi-atx-11/html-forms">HTML Forms</a><!--Wednesday Afternoon--></td>
 <td><a href=" ">Responsive Web Design</a> <!--Thursday Afternoon--></td>
 <td><a href=" ">Advanced CSS Lab</a><!--Friday Afternoon--></td>
 </tr>
@@ -57,7 +57,7 @@
 	<a href="https://github.com/wdi-atx-11/cli_golf">CLI Golf</a>
 	<!--Monday HW--></td>
 <td><!--Tuesday HW--></td>
-<td><a href=" ">Flexbox Froggy</a><!--Wednesday HW--></td>
+<td><a href="https://flexboxfroggy.com/">Flexbox Froggy</a><!--Wednesday HW--></td>
 <td><a href=" ">Flexbox News</a><!--Thursday HW--></td>
 <td><a href=" ">Advanced CSS Lab</a><!--Friday HW--></td>
 </tr>
