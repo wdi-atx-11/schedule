@@ -20,7 +20,7 @@
 <td>Introduction<!--Monday Drills--></td>
 <td><a href="https://github.com/wdi-atx-11/personal-portfolio">Personal Portfolio</a><!--Tuesday Drills--></td>
 <td><a href="https://github.com/wdi-atx-11/html-css-review">HTML/CSS</a><!--Wednesday Drills--></td>
-<td>Garnet && Squad Partitioning<!--Thursday Drills--></td>
+<td><a href="https://garnet.wdidc.org/sign_in">Garnet</a><!--Thursday Drills--></td>
 <td>Review<!--Friday Drills--></td>
 </tr>
 
@@ -29,7 +29,7 @@
 <td>Icebreakers && <a href="https://github.com/GA-WDI/installfest">Installfest</a><!--Monday Morning--></td>
 <td><a href="https://github.com/wdi-atx-11/git-github">Git</a><!--Tuesday Morning--></td>
 <td><a href="https://github.com/wdi-atx-11/html-css-review">HTML/CSS (contd.)</a> && Outcomes<!--Wednesday Morning--></td>
-<td><a href="https://github.com/justincastilla/flexBLOG/blob/master/README.md">Flexbox && Box Model </a><!--Thursday Morning--></td>
+<td><a href="https://github.com/justincastilla/flexBLOG/">Flexbox && Box Model </a><!--Thursday Morning--></td>
 <td><a href=" ">Advanced CSS Lab</a><!--Friday Morning--></td>
 </tr>
 
