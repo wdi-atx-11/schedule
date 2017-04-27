@@ -47,7 +47,7 @@
 <td><a href="https://github.com/wdi-atx-11/the-client-the-server-and-you">Clients, Servers, and You!</a><!--Monday Dusk--></td>
 <td><a href="https://github.com/justincastilla/git-team-training/blob/master/README.md">Git Drills</a><!--Tuesday Dusk--></td>
 <td><a href="https://github.com/wdi-atx-11/mockup-html-css-lab">Mock-up Challenge</a><!--Wednesday Dusk--></td>
-<td><a href=" ">CSS Frameworks</a><!--Thursday Dusk--></td>
+<td><a href="https://github.com/wdi-atx-11/bootstrap_mockups">CSS Framework Mock-up Challenge</a><!--Thursday Dusk--></td>
 <td><a href=" ">Advanced CSS Lab</a><!--Friday Dusk--></td>
 </tr>
 
@@ -58,7 +58,7 @@
 	<!--Monday HW--></td>
 <td><!--Tuesday HW--></td>
 <td><a href="https://flexboxfroggy.com/">Flexbox Froggy</a><!--Wednesday HW--></td>
-<td><a href=" ">Flexbox News</a><!--Thursday HW--></td>
+<td><a href="https://github.com/wdi-atx-11/bootstrap_mockups">Finish Mock-ups Challenge</a><!--Thursday HW--></td>
 <td><a href=" ">Advanced CSS Lab</a><!--Friday HW--></td>
 </tr>
 </tbody></table>
