@@ -38,7 +38,7 @@
 <td><a href="https://github.com/wdi-atx-11/command-line">Command Line Interface</a><!--Monday Afternoon--></td>
 <td><a href="https://github.com/wdi-atx-11/github-and-more-git">Git(Hub)</a><!--Tuesday Afternoon--></td>
 <td><a href="https://github.com/wdi-atx-11/html-forms">HTML Forms</a><!--Wednesday Afternoon--></td>
-<td><a href=" ">Responsive Web Design</a> <!--Thursday Afternoon--></td>
+<td><a href="https://github.com/wdi-atx-11/responsive-web-design">Responsive Web Design</a> <!--Thursday Afternoon--></td>
 <td><a href=" ">Advanced CSS Lab</a><!--Friday Afternoon--></td>
 </tr>
 
