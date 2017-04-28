@@ -30,7 +30,7 @@
 <td><a href="https://github.com/wdi-atx-11/git-github">Git</a><!--Tuesday Morning--></td>
 <td><a href="https://github.com/wdi-atx-11/html-css-review">HTML/CSS (contd.)</a> && Outcomes<!--Wednesday Morning--></td>
 <td><a href="https://github.com/justincastilla/flexBLOG/">Flexbox</a> & <a href="https://github.com/wdi-atx-11/bootstrap">Bootstrap</a><!--Thursday Morning--></td>
-<td><a href=" ">Advanced CSS Lab</a><!--Friday Morning--></td>
+<td><a href="https://github.com/wdi-atx-11/css_coding_challenges">Advanced CSS Lab</a><!--Friday Morning--></td>
 </tr>
 
 <tr>
@@ -39,7 +39,7 @@
 <td><a href="https://github.com/wdi-atx-11/github-and-more-git">Git(Hub)</a><!--Tuesday Afternoon--></td>
 <td><a href="https://github.com/wdi-atx-11/html-forms">HTML Forms</a><!--Wednesday Afternoon--></td>
 <td><a href="https://github.com/wdi-atx-11/responsive-web-design">Responsive Web Design</a> <!--Thursday Afternoon--></td>
-<td><a href=" ">Advanced CSS Lab</a><!--Friday Afternoon--></td>
+<td><a href="https://github.com/wdi-atx-11/css_coding_challenges">Advanced CSS Lab</a><!--Friday Afternoon--></td>
 </tr>
 
 <tr>
@@ -48,7 +48,7 @@
 <td><a href="https://github.com/justincastilla/git-team-training/blob/master/README.md">Git Drills</a><!--Tuesday Dusk--></td>
 <td><a href="https://github.com/wdi-atx-11/mockup-html-css-lab">Mock-up Challenge</a><!--Wednesday Dusk--></td>
 <td><a href="https://github.com/wdi-atx-11/bootstrap_mockups">CSS Framework Mock-up Challenge</a><!--Thursday Dusk--></td>
-<td><a href=" ">Advanced CSS Lab</a><!--Friday Dusk--></td>
+<td><a href="https://github.com/wdi-atx-11/css_coding_challenges">Advanced CSS Lab</a><!--Friday Dusk--></td>
 </tr>
 
 <tr>
@@ -59,7 +59,7 @@
 <td><!--Tuesday HW--></td>
 <td><a href="https://flexboxfroggy.com/">Flexbox Froggy</a><!--Wednesday HW--></td>
 <td><a href="https://github.com/wdi-atx-11/bootstrap_mockups">Finish Mock-ups Challenge</a><!--Thursday HW--></td>
-<td><a href=" ">Advanced CSS Lab</a><!--Friday HW--></td>
+<td><a href="https://github.com/wdi-atx-11/css_coding_challenges">Advanced CSS Lab</a><!--Friday HW--></td>
 </tr>
 </tbody></table>
 
