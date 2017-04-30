@@ -2,6 +2,68 @@
 ![General Assembly WDI-ATX-11](https://cloud.githubusercontent.com/assets/4304660/24909320/46e07912-1e78-11e7-9424-8dc62f005e53.jpg)
 
 ## Unit 1: Front-End Development
+#### Week 2 - Javascript && JQuery
+
+<table><thead>
+<tr>
+<th>Time</th>
+<th>Day 1</th>
+<th>Day 2</th>
+<th>Day 3</th>
+<th>Day 4</th>
+<th>Day 5</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td><strong>9:00am - 10:30am Module 1</strong></td>
+<td>Previously... on WDI<!--Monday Drills--></td>
+<td><a href=" ">Kyrel</a><!--Tuesday Drills--></td>
+<td><a href=" ">Bubblesort</a><!--Wednesday Drills--></td>
+<td>Jquery Intro<!--Thursday Drills--></td>
+<td>Review<!--Friday Drills--></td>
+</tr>
+
+<tr>
+<td><strong>10:30am - 1:00pm Module 2</strong></td>
+<td><a href=" ">JS Data Types</a><!--Monday Morning--></td>
+<td><a href=" ">Arrays</a><!--Tuesday Morning--></td>
+<td><a href=" ">JS Object Literals</a> && Outcomes<!--Wednesday Morning--></td>
+<td><a href=" ">JQuery Dom Manipulation </a><!--Thursday Morning--></td>
+<td><a href=" ">Unit 1 Project 0</a><!--Friday Morning--></td>
+</tr>
+
+<tr>
+<td><strong>2:00pm - 3:30pm Module 3</strong></td>
+<td><a href=" ">JS Flow Control</a><!--Monday Afternoon--></td>
+<td><a href=" ">Functions</a><!--Tuesday Afternoon--></td>
+<td><a href=" ">JS Object Literals</a><!--Wednesday Afternoon--></td>
+<td><a href=" ">JQuery Playground</a> <!--Thursday Afternoon--></td>
+<td><a href=" ">Unit 1 Project 0</a><!--Friday Afternoon--></td>
+</tr>
+
+<tr>
+<td><strong>3:30pm - 4:30pm Module 4</strong></td>
+<td><a href=" ">Control Flow Training</a><!--Monday Dusk--></td>
+<td><a href=" ">Iterators</a><!--Tuesday Dusk--></td>
+<td><a href=" ">JS Object Training</a><!--Wednesday Dusk--></td>
+<td><a href=" ">JQuery Playground</a><!--Thursday Dusk--></td>
+<td><a href=" ">Unit 1 Project</a><!--Friday Dusk--></td>
+</tr>
+
+<tr>
+<td><strong>Training / Office Hours</strong></td>
+<td><a href=" ">JS Adventure</a><!--Monday HW--></td>
+<td><a href=" ">Function Training HW</a> && <a href=" ">Portfolio/Blog Setup</a><!--Tuesday HW--></td>
+<td><a href=" ">Deck o' Cards</a><!--Wednesday HW--></td>
+<td><a href=" ">JQuery Events Training</a><!--Thursday HW--></td>
+<td><a href=" ">Unit 1 Project</a><!--Friday HW--></td>
+</tr>
+</tbody></table>
+
+
+## Unit 1: Front-End Development
 #### Week 1 - Fundamentals Review
 <table><thead>
 <tr>
