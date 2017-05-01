@@ -45,7 +45,7 @@
 
 <tr>
 <td><strong>3:30pm - 4:30pm Module 4</strong></td>
-<td><a href=" ">Control Flow Training</a><!--Monday Dusk--></td>
+<td><a href="https://github.com/wdi-atx-11/js-control-flow-training">Control Flow Training</a><!--Monday Dusk--></td>
 <td><a href=" ">Iterators</a><!--Tuesday Dusk--></td>
 <td><a href=" ">JS Object Training</a><!--Wednesday Dusk--></td>
 <td><a href=" ">JQuery Playground</a><!--Thursday Dusk--></td>
