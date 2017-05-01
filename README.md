@@ -36,7 +36,7 @@
 
 <tr>
 <td><strong>2:00pm - 3:30pm Module 3</strong></td>
-<td><a href=" ">JS Flow Control</a><!--Monday Afternoon--></td>
+<td><a href="https://github.com/wdi-atx-11/js-control-flow/">JS Flow Control</a><!--Monday Afternoon--></td>
 <td><a href=" ">Functions</a><!--Tuesday Afternoon--></td>
 <td><a href=" ">JS Object Literals</a><!--Wednesday Afternoon--></td>
 <td><a href=" ">JQuery Playground</a> <!--Thursday Afternoon--></td>
