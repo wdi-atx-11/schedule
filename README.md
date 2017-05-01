@@ -54,7 +54,7 @@
 
 <tr>
 <td><strong>Training / Office Hours</strong></td>
-<td><a href=" ">JS Adventure</a> && <a href="https://github.com/wdi-atx-11/js-data-types">Data Type Training</a><!--Monday HW--></td>
+<td><a href=" ">JS Adventure</a> && <a href="https://github.com/wdi-atx-11/js-data-types-training">Data Type Training</a><!--Monday HW--></td>
 <td><a href=" ">Function Training HW</a> && <a href=" ">Portfolio/Blog Setup</a><!--Tuesday HW--></td>
 <td><a href=" ">Deck o' Cards</a><!--Wednesday HW--></td>
 <td><a href=" ">JQuery Events Training</a><!--Thursday HW--></td>
