@@ -27,7 +27,7 @@
 
 <tr>
 <td><strong>10:30am - 1:00pm Module 2</strong></td>
-<td><a href=" ">JS Data Types</a><!--Monday Morning--></td>
+<td><a href="https://github.com/wdi-atx-11/js-data-types">JS Data Types</a><!--Monday Morning--></td>
 <td><a href=" ">Arrays</a><!--Tuesday Morning--></td>
 <td><a href=" ">JS Object Literals</a> && Outcomes<!--Wednesday Morning--></td>
 <td><a href=" ">JQuery Dom Manipulation </a><!--Thursday Morning--></td>
@@ -54,7 +54,7 @@
 
 <tr>
 <td><strong>Training / Office Hours</strong></td>
-<td><a href=" ">JS Adventure</a><!--Monday HW--></td>
+<td><a href=" ">JS Adventure</a> && <a href="https://github.com/wdi-atx-11/js-data-types">Data Type Training</a><!--Monday HW--></td>
 <td><a href=" ">Function Training HW</a> && <a href=" ">Portfolio/Blog Setup</a><!--Tuesday HW--></td>
 <td><a href=" ">Deck o' Cards</a><!--Wednesday HW--></td>
 <td><a href=" ">JQuery Events Training</a><!--Thursday HW--></td>
