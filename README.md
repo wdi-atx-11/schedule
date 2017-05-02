@@ -19,7 +19,7 @@
 <tr>
 <td><strong>9:00am - 10:30am Module 1</strong></td>
 <td>Previously... on WDI<!--Monday Drills--></td>
-<td><a href=" ">Kyrel</a><!--Tuesday Drills--></td>
+<td><a href="https://github.com/wdi-atx-11/kyrel">Kyrel</a><!--Tuesday Drills--></td>
 <td><a href=" ">Bubblesort</a><!--Wednesday Drills--></td>
 <td>Jquery Intro<!--Thursday Drills--></td>
 <td>Review<!--Friday Drills--></td>
