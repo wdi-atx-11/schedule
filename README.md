@@ -28,7 +28,7 @@
 <tr>
 <td><strong>10:30am - 1:00pm Module 2</strong></td>
 <td><a href="https://github.com/wdi-atx-11/js-data-types">JS Data Types</a><!--Monday Morning--></td>
-<td><a href=" ">Arrays</a><!--Tuesday Morning--></td>
+<td><a href="https://github.com/wdi-atx-11/js-functions">Functions</a><!--Tuesday Morning--></td>
 <td><a href=" ">JS Object Literals</a> && Outcomes<!--Wednesday Morning--></td>
 <td><a href=" ">JQuery Dom Manipulation </a><!--Thursday Morning--></td>
 <td><a href=" ">Unit 1 Project 0</a><!--Friday Morning--></td>
@@ -37,7 +37,7 @@
 <tr>
 <td><strong>2:00pm - 3:30pm Module 3</strong></td>
 <td><a href="https://github.com/wdi-atx-11/js-control-flow/">JS Flow Control</a><!--Monday Afternoon--></td>
-<td><a href=" ">Functions</a><!--Tuesday Afternoon--></td>
+<td><a href="https://github.com/wdi-atx-11/iterator-methods">Iterators</a><!--Tuesday Afternoon--></td>
 <td><a href=" ">JS Object Literals</a><!--Wednesday Afternoon--></td>
 <td><a href=" ">JQuery Playground</a> <!--Thursday Afternoon--></td>
 <td><a href=" ">Unit 1 Project 0</a><!--Friday Afternoon--></td>
@@ -55,7 +55,7 @@
 <tr>
 <td><strong>Training / Office Hours</strong></td>
 <td><a href="https://github.com/wdi-atx-11/js_adventure">JS Adventure</a> && <a href="https://github.com/wdi-atx-11/js-data-types-training">Data Type Training</a><!--Monday HW--></td>
-<td><a href=" ">Function Training HW</a> && <a href=" ">Portfolio/Blog Setup</a><!--Tuesday HW--></td>
+<td><a href="https://github.com/wdi-atx-11/functions-exercises">Function Training HW</a><!--Tuesday HW--></td>
 <td><a href=" ">Deck o' Cards</a><!--Wednesday HW--></td>
 <td><a href=" ">JQuery Events Training</a><!--Thursday HW--></td>
 <td><a href=" ">Unit 1 Project</a><!--Friday HW--></td>
