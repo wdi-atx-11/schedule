@@ -39,7 +39,7 @@
 <td><a href="https://github.com/wdi-atx-11/js-control-flow/">JS Flow Control</a><!--Monday Afternoon--></td>
 <td><a href="https://github.com/wdi-atx-11/iterator-methods">Iterators</a><!--Tuesday Afternoon--></td>
 <td><a href="https://github.com/wdi-atx-11/js-objects">JS Object Literals</a><!--Wednesday Afternoon--></td>
-<td><a href=" ">JQuery Playground</a> <!--Thursday Afternoon--></td>
+<td><a href=" ">JQuery Dom Events</a> <!--Thursday Afternoon--></td>
 <td><a href=" ">Unit 1 Project 0</a><!--Friday Afternoon--></td>
 </tr>
 
