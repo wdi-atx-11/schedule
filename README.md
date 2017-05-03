@@ -56,7 +56,7 @@
 <td><strong>Training / Office Hours</strong></td>
 <td><a href="https://github.com/wdi-atx-11/js_adventure">JS Adventure</a> && <a href="https://github.com/wdi-atx-11/js-data-types-training">Data Type Training</a><!--Monday HW--></td>
 <td><a href="https://github.com/wdi-atx-11/functions-exercises">Function Training HW</a><!--Tuesday HW--></td>
-<td><a href=" ">Deck o' Cards</a><!--Wednesday HW--></td>
+<td><a href="https://github.com/wdi-atx-11/deck_of_cards/blob/master/README.md">Deck o' Cards</a><!--Wednesday HW--></td>
 <td><a href=" ">JQuery Events Training</a><!--Thursday HW--></td>
 <td><a href=" ">Unit 1 Project</a><!--Friday HW--></td>
 </tr>
