@@ -21,7 +21,7 @@
 <td>Previously... on WDI<!--Monday Drills--></td>
 <td><a href="https://github.com/wdi-atx-11/kyrel">Kyrel</a><!--Tuesday Drills--></td>
 <td><a href="https://github.com/wdi-atx-11/kyrel">Kyrel</a><!--Wednesday Drills--></td>
-<td>Jquery Intro<!--Thursday Drills--></td>
+<td><a href="https://github.com/wdi-atx-11/dom-manipulation">Jquery Dom Manipulatiaon<!--Thursday Drills--></td>
 <td>Review<!--Friday Drills--></td>
 </tr>
 
@@ -30,7 +30,7 @@
 <td><a href="https://github.com/wdi-atx-11/js-data-types">JS Data Types</a><!--Monday Morning--></td>
 <td><a href="https://github.com/wdi-atx-11/js-functions">Functions</a><!--Tuesday Morning--></td>
 <td><a href="https://github.com/wdi-atx-11/js-objects">JS Object Literals</a> && Outcomes<!--Wednesday Morning--></td>
-<td><a href=" ">JQuery Dom Manipulation </a><!--Thursday Morning--></td>
+<td><a href="https://github.com/wdi-atx-11/jquery-dom-lab">JQuery Dom Lab </a><!--Thursday Morning--></td>
 <td><a href=" ">Unit 1 Project 0</a><!--Friday Morning--></td>
 </tr>
 
@@ -48,7 +48,7 @@
 <td><a href="https://github.com/wdi-atx-11/js-control-flow-training">Control Flow Training</a><!--Monday Dusk--></td>
 <td><a href=" ">Iterators</a><!--Tuesday Dusk--></td>
 <td><a href="https://github.com/wdi-atx-11/js-objects-training">JS Object Training</a><!--Wednesday Dusk--></td>
-<td><a href=" ">JQuery Playground</a><!--Thursday Dusk--></td>
+<td><a href="https://github.com/wdi-atx-11/jquery-playground-lab">JQuery Playground</a><!--Thursday Dusk--></td>
 <td><a href=" ">Unit 1 Project</a><!--Friday Dusk--></td>
 </tr>
 
@@ -57,7 +57,7 @@
 <td><a href="https://github.com/wdi-atx-11/js_adventure">JS Adventure</a> && <a href="https://github.com/wdi-atx-11/js-data-types-training">Data Type Training</a><!--Monday HW--></td>
 <td><a href="https://github.com/wdi-atx-11/functions-exercises">Function Training HW</a><!--Tuesday HW--></td>
 <td><a href="https://github.com/wdi-atx-11/deck_of_cards/blob/master/README.md">Deck o' Cards</a><!--Wednesday HW--></td>
-<td><a href=" ">JQuery Events Training</a><!--Thursday HW--></td>
+<td><a href="https://github.com/wdi-atx-11/jquery-events-training-1">JQuery Events Training</a><!--Thursday HW--></td>
 <td><a href=" ">Unit 1 Project</a><!--Friday HW--></td>
 </tr>
 </tbody></table>
