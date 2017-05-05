@@ -40,7 +40,7 @@
 <td><a href="https://github.com/wdi-atx-11/iterator-methods">Iterators</a><!--Tuesday Afternoon--></td>
 <td><a href="https://github.com/wdi-atx-11/js-objects">JS Object Literals</a><!--Wednesday Afternoon--></td>
 <td><a href="https://github.com/wdi-atx-11/dom-events-jquery">JQuery Dom Events</a> <!--Thursday Afternoon--></td>
-<td><a href=" ">Unit 1 Project 0</a><!--Friday Afternoon--></td>
+<td><a href="https://github.com/wdi-atx-11/tic-tac-toe">Unit 1 Project 0</a><!--Friday Afternoon--></td>
 </tr>
 
 <tr>
@@ -49,7 +49,7 @@
 <td><a href=" ">Iterators</a><!--Tuesday Dusk--></td>
 <td><a href="https://github.com/wdi-atx-11/js-objects-training">JS Object Training</a><!--Wednesday Dusk--></td>
 <td><a href="https://github.com/wdi-atx-11/jquery-playground-lab">JQuery Playground</a><!--Thursday Dusk--></td>
-<td><a href=" ">Unit 1 Project</a><!--Friday Dusk--></td>
+<td><a href="https://github.com/wdi-atx-11/tic-tac-toe">Unit 1 Project</a><!--Friday Dusk--></td>
 </tr>
 
 <tr>
@@ -58,7 +58,7 @@
 <td><a href="https://github.com/wdi-atx-11/functions-exercises">Function Training HW</a><!--Tuesday HW--></td>
 <td><a href="https://github.com/wdi-atx-11/deck_of_cards/blob/master/README.md">Deck o' Cards</a><!--Wednesday HW--></td>
 <td><a href="https://github.com/wdi-atx-11/jquery-events-training-1">JQuery Events Training</a><!--Thursday HW--></td>
-<td><a href=" ">Unit 1 Project</a><!--Friday HW--></td>
+<td><a href="https://github.com/wdi-atx-11/tic-tac-toe">Unit 1 Project</a><!--Friday HW--></td>
 </tr>
 </tbody></table>
 
