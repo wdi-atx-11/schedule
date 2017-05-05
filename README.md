@@ -31,7 +31,7 @@
 <td><a href="https://github.com/wdi-atx-11/js-functions">Functions</a><!--Tuesday Morning--></td>
 <td><a href="https://github.com/wdi-atx-11/js-objects">JS Object Literals</a> && Outcomes<!--Wednesday Morning--></td>
 <td><a href="https://github.com/wdi-atx-11/jquery-dom-lab">JQuery Dom Lab </a><!--Thursday Morning--></td>
-<td><a href=" ">Unit 1 Project 0</a><!--Friday Morning--></td>
+<td><a href="https://github.com/wdi-atx-11/tic-tac-toe">Unit 1 Project 0</a><!--Friday Morning--></td>
 </tr>
 
 <tr>
