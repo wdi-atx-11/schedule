@@ -28,7 +28,7 @@
 <tr>
 <td><strong>10:30am - 1:00pm Module 2</strong></td>
 <td>Unit 1 Project 0<!--Monday Morning--></td>
-<td><a href=" ">OOP Introduction Bonanza</a><!--Tuesday Morning--></td>
+<td><a href="https://github.com/wdi-atx-11/js-oop-flower-power">OOP Introduction Bonanza</a><!--Tuesday Morning--></td>
 <td><a href=" ">Ajax</a> && Outcomes<!--Wednesday Morning--></td>
 <td><a href=" ">GeoQuakes</a><!--Thursday Morning--></td>
 <td><a href=" ">Reddit, Ajaxified</a><!--Friday Morning--></td>
@@ -37,7 +37,7 @@
 <tr>
 <td><strong>2:00pm - 3:30pm Module 3</strong></td>
 <td>Unit 1 Project 0<!--Monday Afternoon--></td>
-<td><a href=" ">OOP (contd.)</a><!--Tuesday Afternoon--></td>
+<td><a href="https://github.com/wdi-atx-11/js-oop-flower-power">OOP (contd.)</a><!--Tuesday Afternoon--></td>
 <td><a href=" ">Third Party Integration</a><!--Wednesday Afternoon--></td>
 <td><a href=" ">GeoQuakes</a> <!--Thursday Afternoon--></td>
 <td><a href=" ">Reddit, Ajaxified</a><!--Friday Afternoon--></td>
@@ -46,7 +46,7 @@
 <tr>
 <td><strong>3:30pm - 4:30pm Module 4</strong></td>
 <td>Unit 1 Project 0 - bit baloon hosting<!--Monday Dusk--></td>
-<td><a href=" ">OOP (contd.)</a><!--Tuesday Dusk--></td>
+<td><a href="https://github.com/wdi-atx-11/js-oop-flower-power">OOP (contd.)</a><!--Tuesday Dusk--></td>
 <td><a href=" ">Giffaw Lab</a><!--Wednesday Dusk--></td>
 <td><a href=" ">GeoQuakes</a><!--Thursday Dusk--></td>
 <td><a href=" ">Reddit, Ajaxified</a><!--Friday Dusk--></td>
