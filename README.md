@@ -20,7 +20,7 @@
 <td><strong>9:00am - 10:30am Module 1</strong></td>
 <td>Unit 1 Project 0<!--Monday Drills--></td>
 <td>Project Presentations<!--Tuesday Drills--></td>
-<td><a href=" ">Linked Lists</a><!--Wednesday Drills--></td>
+<td><a href="https://github.com/SF-WDI-LABS/js-linked-list">Linked Lists</a><!--Wednesday Drills--></td>
 <td>Stacks && Queues<!--Thursday Drills--></td>
 <td>Review<!--Friday Drills--></td>
 </tr>
@@ -29,7 +29,7 @@
 <td><strong>10:30am - 1:00pm Module 2</strong></td>
 <td>Unit 1 Project 0<!--Monday Morning--></td>
 <td><a href="https://github.com/wdi-atx-11/js-oop-flower-power">OOP Introduction Bonanza</a><!--Tuesday Morning--></td>
-<td><a href=" ">Ajax</a> && Outcomes<!--Wednesday Morning--></td>
+<td><a href="https://github.com/wdi-atx-11/intro-ajax">Ajax</a> && Outcomes<!--Wednesday Morning--></td>
 <td><a href=" ">GeoQuakes</a><!--Thursday Morning--></td>
 <td><a href=" ">Reddit, Ajaxified</a><!--Friday Morning--></td>
 </tr>
