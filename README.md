@@ -47,7 +47,7 @@
 <td><strong>3:30pm - 4:30pm Module 4</strong></td>
 <td>Unit 1 Project 0 - bit baloon hosting<!--Monday Dusk--></td>
 <td><a href="https://github.com/wdi-atx-11/js-oop-flower-power">OOP (contd.)</a><!--Tuesday Dusk--></td>
-<td><a href=" ">Giffaw Lab</a><!--Wednesday Dusk--></td>
+<td><a href="https://github.com/wdi-atx-11/giffaw">Giffaw Lab</a><!--Wednesday Dusk--></td>
 <td><a href=" ">GeoQuakes</a><!--Thursday Dusk--></td>
 <td><a href=" ">Reddit, Ajaxified</a><!--Friday Dusk--></td>
 </tr>
