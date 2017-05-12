@@ -31,7 +31,7 @@
 <td><a href="https://github.com/wdi-atx-11/js-oop-flower-power">OOP Introduction Bonanza</a><!--Tuesday Morning--></td>
 <td><a href="https://github.com/wdi-atx-11/intro-ajax">Ajax</a> && Outcomes<!--Wednesday Morning--></td>
 <td><a href="https://github.com/wdi-atx-11/geoquakes">GeoQuakes</a><!--Thursday Morning--></td>
-<td><a href=" ">Reddit, Ajaxified</a><!--Friday Morning--></td>
+<td><a href="https://github.com/wdi-atx-11/ajaxify-reddit">Reddit, Ajaxified</a><!--Friday Morning--></td>
 </tr>
 
 <tr>
@@ -40,7 +40,7 @@
 <td><a href="https://github.com/wdi-atx-11/js-oop-flower-power">OOP (contd.)</a><!--Tuesday Afternoon--></td>
 <td><a href=" ">Third Party Integration</a><!--Wednesday Afternoon--></td>
 <td><a href="https://github.com/wdi-atx-11/geoquakes">GeoQuakes</a> <!--Thursday Afternoon--></td>
-<td><a href=" ">Reddit, Ajaxified</a><!--Friday Afternoon--></td>
+<td><a href="https://github.com/wdi-atx-11/ajaxify-reddit">Reddit, Ajaxified</a><!--Friday Afternoon--></td>
 </tr>
 
 <tr>
@@ -49,7 +49,7 @@
 <td><a href="https://github.com/wdi-atx-11/js-oop-flower-power">OOP (contd.)</a><!--Tuesday Dusk--></td>
 <td><a href="https://github.com/wdi-atx-11/giffaw">Giffaw Lab</a><!--Wednesday Dusk--></td>
 <td><a href="https://github.com/wdi-atx-11/geoquakes">GeoQuakes</a><!--Thursday Dusk--></td>
-<td><a href=" ">Reddit, Ajaxified</a><!--Friday Dusk--></td>
+<td><a href="https://github.com/wdi-atx-11/ajaxify-reddit">Reddit, Ajaxified</a><!--Friday Dusk--></td>
 </tr>
 
 <tr>
@@ -58,7 +58,7 @@
 <td><a href=" ">OOP Deck o' Cards - WAR!!!</a><!--Tuesday HW--></td>
 <td><a href=" ">Giffaw & Spotify Lab</a><!--Wednesday HW--></td>
 <td><a href="https://github.com/wdi-atx-11/geoquakes">GeoQuakes</a><!--Thursday HW--></td>
-<td><a href=" ">Reddit, Ajaxified</a><!--Friday HW--></td>
+<td><a href="https://github.com/wdi-atx-11/ajaxify-reddit">Reddit, Ajaxified</a><!--Friday HW--></td>
 </tr>
 </tbody></table>
 
