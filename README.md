@@ -100,7 +100,7 @@
 <td><strong>2:00pm - 3:30pm Module 3</strong></td>
 <td>Unit 1 Project 0<!--Monday Afternoon--></td>
 <td><a href="https://github.com/wdi-atx-11/js-oop-flower-power">OOP (contd.)</a><!--Tuesday Afternoon--></td>
-<td><a href=" ">Third Party Integration</a><!--Wednesday Afternoon--></td>
+<td><a href="https://github.com/wdi-atx-11/giffaw">Giffaw Lab</a><!--Wednesday Afternoon--></td>
 <td><a href="https://github.com/wdi-atx-11/geoquakes">GeoQuakes</a> <!--Thursday Afternoon--></td>
 <td><a href="https://github.com/wdi-atx-11/ajaxify-reddit">Reddit, Ajaxified</a><!--Friday Afternoon--></td>
 </tr>
@@ -215,7 +215,7 @@
 <td><a href="https://github.com/wdi-atx-11/git-github">Git</a><!--Tuesday Morning--></td>
 <td><a href="https://github.com/wdi-atx-11/html-css-review">HTML/CSS (contd.)</a> && Outcomes<!--Wednesday Morning--></td>
 <td><a href=" ">Flexbox && Box Model </a><!--Thursday Morning--></td>
-<td><a href=" ">Advanced CSS Lab</a><!--Friday Morning--></td>
+<td><a href="https://github.com/wdi-atx-11/advanced-css">Advanced CSS Lab</a><!--Friday Morning--></td>
 </tr>
 
 <tr>
@@ -239,9 +239,9 @@
 <tr>
 <td><strong>Training / Office Hours</strong></td>
 <td><a href="https://github.com/wdi-atx-11/cli_golf">CLI Golf</a><!--Monday HW--></td>
-<td><a href=" ">Reading</a> && <a href=" ">Portfolio/Blog Setup</a><!--Tuesday HW--></td>
+<td><a href="https://github.com/wdi-atx-11/github-and-more-git#hungry-for-more">Reading</a> && <a href=" ">Portfolio/Blog Setup</a><!--Tuesday HW--></td>
 <td><a href="https://flexboxfroggy.com/">Flexbox Froggy</a><!--Wednesday HW--></td>
-<td><a href=" ">Flexbox News</a><!--Thursday HW--></td>
+<td><a href="">Flexbox News</a><!--Thursday HW--></td>
 <td><a href="https://github.com/wdi-atx-11/advanced-css">Advanced CSS Lab</a><!--Friday HW--></td>
 </tr>
 </tbody></table>
