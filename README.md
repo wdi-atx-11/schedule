@@ -204,7 +204,7 @@
 <td><strong>9:00am - 10:30am Module 1</strong></td>
 <td>Introduction<!--Monday Drills--></td>
 <td><a href=" ">Personal Portfolio</a><!--Tuesday Drills--></td>
-<td><a href=" ">HTML/CSS</a><!--Wednesday Drills--></td>
+<td><a href="https://github.com/wdi-atx-11/html-css-review">HTML/CSS</a><!--Wednesday Drills--></td>
 <td>Garnet && Squad Partitioning<!--Thursday Drills--></td>
 <td>Review<!--Friday Drills--></td>
 </tr>
@@ -213,7 +213,7 @@
 <td><strong>10:30am - 1:00pm Module 2</strong></td>
 <td>Icebreakers && <a href="https://github.com/GA-WDI/installfest">Installfest</a><!--Monday Morning--></td>
 <td><a href="https://github.com/wdi-atx-11/git-github">Git</a><!--Tuesday Morning--></td>
-<td><a href=" ">HTML/CSS (contd.)</a> && Outcomes<!--Wednesday Morning--></td>
+<td><a href="https://github.com/wdi-atx-11/html-css-review">HTML/CSS (contd.)</a> && Outcomes<!--Wednesday Morning--></td>
 <td><a href=" ">Flexbox && Box Model </a><!--Thursday Morning--></td>
 <td><a href=" ">Advanced CSS Lab</a><!--Friday Morning--></td>
 </tr>
@@ -221,9 +221,9 @@
 <tr>
 <td><strong>2:00pm - 3:30pm Module 3</strong></td>
 <td><a href="https://github.com/wdi-atx-11/command-line">Command Line Interface</a><!--Monday Afternoon--></td>
-<td><a href=" ">Git(Hub)</a><!--Tuesday Afternoon--></td>
-<td><a href=" ">HTML Forms</a><!--Wednesday Afternoon--></td>
-<td><a href=" ">Responsive Web Design</a> <!--Thursday Afternoon--></td>
+<td><a href="https://github.com/wdi-atx-11/github-and-more-git">Git(Hub)</a><!--Tuesday Afternoon--></td>
+<td><a href="https://github.com/wdi-atx-11/html-forms">HTML Forms</a><!--Wednesday Afternoon--></td>
+<td><a href="https://github.com/wdi-atx-11/responsive-web-design">Responsive Web Design</a> <!--Thursday Afternoon--></td>
 <td><a href=" ">Advanced CSS Lab</a><!--Friday Afternoon--></td>
 </tr>
 
@@ -238,9 +238,7 @@
 
 <tr>
 <td><strong>Training / Office Hours</strong></td>
-<td>
-	<a href="https://github.com/wdi-atx-11/cli_golf">CLI Golf</a>
-	<!--Monday HW--></td>
+<td><a href="https://github.com/wdi-atx-11/cli_golf">CLI Golf</a><!--Monday HW--></td>
 <td><a href=" ">Reading</a> && <a href=" ">Portfolio/Blog Setup</a><!--Tuesday HW--></td>
 <td><a href=" ">Flexbox Froggy</a><!--Wednesday HW--></td>
 <td><a href=" ">Flexbox News</a><!--Thursday HW--></td>
