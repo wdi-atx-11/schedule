@@ -45,7 +45,7 @@
 
 <tr>
 <td><strong>3:30pm - 4:30pm Module 4</strong></td>
-<td>Express Routing<!--Monday Dusk--></td>
+<td><a href="https://github.com/wdi-atx-11/express-routes-training">Express Routing</a><!--Monday Dusk--></td>
 <td>Mongoose Training<!--Tuesday Dusk--></td>
 <td>Book Lab<!--Wednesday Dusk--></td>
 <td>MEN Stack Drills<!--Thursday Dusk--></td>
