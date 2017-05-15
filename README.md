@@ -1,6 +1,68 @@
 
 ![General Assembly WDI-ATX-11](https://cloud.githubusercontent.com/assets/4304660/24909320/46e07912-1e78-11e7-9424-8dc62f005e53.jpg)
 
+## Unit 2: Back-End Development
+#### Week 4 - Express, Mongoose, and MongoDB
+
+<table><thead>
+<tr>
+<th>Time</th>
+<th>Day 1</th>
+<th>Day 2</th>
+<th>Day 3</th>
+<th>Day 4</th>
+<th>Day 5</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td><strong>9:00am - 10:30am Module 1</strong></td>
+<td><a href="https://github.com/wdi-atx-11/bubble-sort">Bubble Sort</a><!--Monday Drills--></td>
+<td>Binary Search<!--Tuesday Drills--></td>
+<td>Merge Sort<!--Wednesday Drills--></td>
+<td>Coding Interview Exercises<!--Thursday Drills--></td>
+<td>Review<!--Friday Drills--></td>
+</tr>
+
+<tr>
+<td><strong>10:30am - 1:00pm Module 2</strong></td>
+<td><a href="https://github.com/wdi-atx-11/software-development-best-practices">Agile Development Techniques<!--Monday Morning--></td>
+<td>MongoDB && Mongoose<!--Tuesday Morning--></td>
+<td>Mongoose Relational DBs && Outcomes<!--Wednesday Morning--></td>
+<td>MEN Stack Drills<!--Thursday Morning--></td>
+<td>Personal API<!--Friday Morning--></td>
+</tr>
+
+<tr>
+<td><strong>2:00pm - 3:30pm Module 3</strong></td>
+<td>Express Intro<!--Monday Afternoon--></td>
+<td>MongoDB && Mongoose<!--Tuesday Afternoon--></td>
+<td>Book Lab<!--Wednesday Afternoon--></td>
+<td>MEN Stack Drills<!--Thursday Afternoon--></td>
+<td>Personal API<!--Friday Afternoon--></td>
+</tr>
+
+<tr>
+<td><strong>3:30pm - 4:30pm Module 4</strong></td>
+<td>Express Routing<!--Monday Dusk--></td>
+<td>Mongoose Training<!--Tuesday Dusk--></td>
+<td>Book Lab<!--Wednesday Dusk--></td>
+<td>MEN Stack Drills<!--Thursday Dusk--></td>
+<td>Personal API<!--Friday Dusk--></td>
+</tr>
+
+<tr>
+<td><strong>Training / Office Hours</strong></td>
+<td>Express Training / DB Reading<!--Monday HW--></td>
+<td>Mongoose Relationship Reading<!--Tuesday HW--></td>
+<td>Book Lab<!--Wednesday HW--></td>
+<td><!--Thursday HW--></td>
+<td>Personal API<!--Friday HW--></td>
+</tr>
+</tbody></table>
+
+
 ## Unit 1: Front-End Development
 #### Week 3 - Objects && API Integration
 
