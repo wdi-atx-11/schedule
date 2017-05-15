@@ -169,7 +169,7 @@
 <tr>
 <td><strong>3:30pm - 4:30pm Module 4</strong></td>
 <td><a href="https://github.com/wdi-atx-11/js-control-flow-training">Control Flow Training</a><!--Monday Dusk--></td>
-<td><a href=" ">Iterators</a><!--Tuesday Dusk--></td>
+<td><a href="https://github.com/wdi-atx-11/iterator-methods">Iterators</a><!--Tuesday Dusk--></td>
 <td><a href="https://github.com/wdi-atx-11/js-objects-training">JS Object Training</a><!--Wednesday Dusk--></td>
 <td><a href="https://github.com/wdi-atx-11/jquery-playground-lab">JQuery Playground</a><!--Thursday Dusk--></td>
 <td><a href="https://github.com/wdi-atx-11/tic-tac-toe">Unit 1 Project</a><!--Friday Dusk--></td>
@@ -203,7 +203,7 @@
 <tr>
 <td><strong>9:00am - 10:30am Module 1</strong></td>
 <td>Introduction<!--Monday Drills--></td>
-<td><a href=" ">Personal Portfolio</a><!--Tuesday Drills--></td>
+<td><a href="https://github.com/wdi-atx-11/personal-portfolio">Personal Portfolio</a><!--Tuesday Drills--></td>
 <td><a href="https://github.com/wdi-atx-11/html-css-review">HTML/CSS</a><!--Wednesday Drills--></td>
 <td>Garnet && Squad Partitioning<!--Thursday Drills--></td>
 <td>Review<!--Friday Drills--></td>
@@ -242,7 +242,7 @@
 <td><a href=" ">Reading</a> && <a href=" ">Portfolio/Blog Setup</a><!--Tuesday HW--></td>
 <td><a href="https://flexboxfroggy.com/">Flexbox Froggy</a><!--Wednesday HW--></td>
 <td><a href=" ">Flexbox News</a><!--Thursday HW--></td>
-<td><a href=" ">Advanced CSS Lab</a><!--Friday HW--></td>
+<td><a href="https://github.com/wdi-atx-11/advanced-css">Advanced CSS Lab</a><!--Friday HW--></td>
 </tr>
 </tbody></table>
 
