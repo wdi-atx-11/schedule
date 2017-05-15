@@ -224,16 +224,16 @@
 <td><a href="https://github.com/wdi-atx-11/github-and-more-git">Git(Hub)</a><!--Tuesday Afternoon--></td>
 <td><a href="https://github.com/wdi-atx-11/html-forms">HTML Forms</a><!--Wednesday Afternoon--></td>
 <td><a href="https://github.com/wdi-atx-11/responsive-web-design">Responsive Web Design</a> <!--Thursday Afternoon--></td>
-<td><a href=" ">Advanced CSS Lab</a><!--Friday Afternoon--></td>
+<td><a href="https://github.com/wdi-atx-11/advanced-css">Advanced CSS Lab</a><!--Friday Afternoon--></td>
 </tr>
 
 <tr>
 <td><strong>3:30pm - 4:30pm Module 4</strong></td>
 <td><a href="https://github.com/wdi-atx-11/the-client-the-server-and-you">Clients, Servers, and You!</a><!--Monday Dusk--></td>
 <td><a href=" ">Git Drills</a><!--Tuesday Dusk--></td>
-<td><a href=" ">Mock-up Challenge</a><!--Wednesday Dusk--></td>
-<td><a href=" ">CSS Frameworks</a><!--Thursday Dusk--></td>
-<td><a href=" ">Advanced CSS Lab</a><!--Friday Dusk--></td>
+<td><a href="https://github.com/wdi-atx-11/mockup-html-css-lab">Mock-up Challenge</a><!--Wednesday Dusk--></td>
+<td><a href="https://github.com/wdi-atx-11/bootstrap">CSS Frameworks (Bootstrap)</a><!--Thursday Dusk--></td>
+<td><a href="https://github.com/wdi-atx-11/advanced-css">Advanced CSS Lab</a><!--Friday Dusk--></td>
 </tr>
 
 <tr>
