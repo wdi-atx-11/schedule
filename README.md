@@ -36,7 +36,7 @@
 
 <tr>
 <td><strong>2:00pm - 3:30pm Module 3</strong></td>
-<td><a href="https://github.com/wdi-atx-11/express-intro">Express Intro</a><!--Monday Afternoon--></td>
+<td><a href="https://github.com/SF-WDI-LABS/express">Express Intro</a><!--Monday Afternoon--></td>
 <td>MongoDB && Mongoose<!--Tuesday Afternoon--></td>
 <td>Book Lab<!--Wednesday Afternoon--></td>
 <td>MEN Stack Drills<!--Thursday Afternoon--></td>
