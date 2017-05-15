@@ -240,7 +240,7 @@
 <td><strong>Training / Office Hours</strong></td>
 <td><a href="https://github.com/wdi-atx-11/cli_golf">CLI Golf</a><!--Monday HW--></td>
 <td><a href=" ">Reading</a> && <a href=" ">Portfolio/Blog Setup</a><!--Tuesday HW--></td>
-<td><a href=" ">Flexbox Froggy</a><!--Wednesday HW--></td>
+<td><a href="https://flexboxfroggy.com/">Flexbox Froggy</a><!--Wednesday HW--></td>
 <td><a href=" ">Flexbox News</a><!--Thursday HW--></td>
 <td><a href=" ">Advanced CSS Lab</a><!--Friday HW--></td>
 </tr>
