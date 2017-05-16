@@ -55,7 +55,7 @@
 <tr>
 <td><strong>Training / Office Hours</strong></td>
 <td>Express Training / DB Reading<!--Monday HW--></td>
-<td>Mongoose Relationship Reading<!--Tuesday HW--></td>
+<td><a href="https://github.com/generalassembly-atx/mongoose-books-app">Mongoose Training</a><!--Tuesday HW--></td>
 <td>Book Lab<!--Wednesday HW--></td>
 <td><!--Thursday HW--></td>
 <td>Personal API<!--Friday HW--></td>
