@@ -29,7 +29,7 @@
 <td><strong>10:30am - 1:00pm Module 2</strong></td>
 <td><a href="https://github.com/wdi-atx-11/software-development-best-practices">Agile Development Techniques<!--Monday Morning--></td>
 <td><a href="https://github.com/wdi-atx-11/mongoose">MongoDB && Mongoose</a><!--Tuesday Morning--></td>
-<td>Mongoose Relational DBs && Outcomes<!--Wednesday Morning--></td>
+<td><a href="https://github.com/wdi-atx-11/mongoose-associations">Mongoose Relational DBs</a> && Outcomes<!--Wednesday Morning--></td>
 <td>MEN Stack Drills<!--Thursday Morning--></td>
 <td>Personal API<!--Friday Morning--></td>
 </tr>
@@ -38,7 +38,7 @@
 <td><strong>2:00pm - 3:30pm Module 3</strong></td>
 <td><a href="https://github.com/SF-WDI-LABS/express">Express Intro</a><!--Monday Afternoon--></td>
 <td><a href="https://github.com/wdi-atx-11/mongoose">MongoDB && Mongoose</a><!--Tuesday Afternoon--></td>
-<td>Book Lab<!--Wednesday Afternoon--></td>
+<td><a href="https://github.com/generalassembly-atx/mongoose-books-app">Book Lab</a><!--Wednesday Afternoon--></td>
 <td>MEN Stack Drills<!--Thursday Afternoon--></td>
 <td>Personal API<!--Friday Afternoon--></td>
 </tr>
@@ -47,7 +47,7 @@
 <td><strong>3:30pm - 4:30pm Module 4</strong></td>
 <td><a href="https://github.com/SF-WDI-LABS/express-dynamic-routes">Express Routing</a><!--Monday Dusk--></td>
 <td><a href="https://github.com/generalassembly-atx/mongoose-books-app">Mongoose Training</a><!--Tuesday Dusk--></td>
-<td>Book Lab<!--Wednesday Dusk--></td>
+<td><a href="https://github.com/generalassembly-atx/mongoose-books-app">Book Lab</a><!--Wednesday Dusk--></td>
 <td>MEN Stack Drills<!--Thursday Dusk--></td>
 <td>Personal API<!--Friday Dusk--></td>
 </tr>
@@ -56,7 +56,7 @@
 <td><strong>Training / Office Hours</strong></td>
 <td>Express Training / DB Reading<!--Monday HW--></td>
 <td><a href="https://github.com/generalassembly-atx/mongoose-books-app">Mongoose Training</a><!--Tuesday HW--></td>
-<td>Book Lab<!--Wednesday HW--></td>
+<td><a href="https://github.com/generalassembly-atx/mongoose-books-app">Book Lab</a><!--Wednesday HW--></td>
 <td><!--Thursday HW--></td>
 <td>Personal API<!--Friday HW--></td>
 </tr>
