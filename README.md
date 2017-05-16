@@ -214,7 +214,7 @@
 <td>Icebreakers && <a href="https://github.com/GA-WDI/installfest">Installfest</a><!--Monday Morning--></td>
 <td><a href="https://github.com/wdi-atx-11/git-github">Git</a><!--Tuesday Morning--></td>
 <td><a href="https://github.com/wdi-atx-11/html-css-review">HTML/CSS (contd.)</a> && Outcomes<!--Wednesday Morning--></td>
-<td><a href=" ">Flexbox && Box Model </a><!--Thursday Morning--></td>
+<td><a href="https://github.com/wdi-atx-11/flexBLOG">Flexbox && Box Model </a><!--Thursday Morning--></td>
 <td><a href="https://github.com/wdi-atx-11/advanced-css">Advanced CSS Lab</a><!--Friday Morning--></td>
 </tr>
 
