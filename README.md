@@ -20,7 +20,7 @@
 <td><strong>9:00am - 10:30am Module 1</strong></td>
 <td><a href="https://github.com/wdi-atx-11/bubble-sort">Bubble Sort</a><!--Monday Drills--></td>
 <td>Express Review<!--Tuesday Drills--></td>
-<td>Merge Sort<!--Wednesday Drills--></td>
+<td><a href="https://github.com/wdi-atx-11/binary-search">Binary Search</a><!--Wednesday Drills--></td>
 <td>Coding Interview Exercises<!--Thursday Drills--></td>
 <td>Review<!--Friday Drills--></td>
 </tr>
