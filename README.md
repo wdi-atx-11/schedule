@@ -31,7 +31,7 @@
 <td><a href="https://github.com/wdi-atx-11/mongoose">MongoDB && Mongoose</a><!--Tuesday Morning--></td>
 <td><a href="https://github.com/wdi-atx-11/mongoose-associations">Mongoose Relational DBs</a> && Outcomes<!--Wednesday Morning--></td>
 <td>MEN Stack Drills<!--Thursday Morning--></td>
-<td>Personal API<!--Friday Morning--></td>
+<td><a href="https://github.com/wdi-atx-11/express-personal-api">Personal API</a><!--Friday Morning--></td>
 </tr>
 
 <tr>
@@ -40,7 +40,7 @@
 <td><a href="https://github.com/wdi-atx-11/mongoose">MongoDB && Mongoose</a><!--Tuesday Afternoon--></td>
 <td><a href="https://github.com/generalassembly-atx/mongoose-books-app">Book Lab</a><!--Wednesday Afternoon--></td>
 <td>MEN Stack Drills<!--Thursday Afternoon--></td>
-<td>Personal API<!--Friday Afternoon--></td>
+<td><a href="https://github.com/wdi-atx-11/express-personal-api">Personal API</a><!--Friday Afternoon--></td>
 </tr>
 
 <tr>
@@ -49,7 +49,7 @@
 <td><a href="https://github.com/generalassembly-atx/mongoose-books-app">Mongoose Training</a><!--Tuesday Dusk--></td>
 <td><a href="https://github.com/generalassembly-atx/mongoose-books-app">Book Lab</a><!--Wednesday Dusk--></td>
 <td>MEN Stack Drills<!--Thursday Dusk--></td>
-<td>Personal API<!--Friday Dusk--></td>
+<td><a href="https://github.com/wdi-atx-11/express-personal-api">Personal API</a><!--Friday Dusk--></td>
 </tr>
 
 <tr>
@@ -58,7 +58,7 @@
 <td><a href="https://github.com/generalassembly-atx/mongoose-books-app">Mongoose Training</a><!--Tuesday HW--></td>
 <td><a href="https://github.com/generalassembly-atx/mongoose-books-app">Book Lab</a><!--Wednesday HW--></td>
 <td><!--Thursday HW--></td>
-<td>Personal API<!--Friday HW--></td>
+<td><a href="https://github.com/wdi-atx-11/express-personal-api">Personal API</a><!--Friday HW--></td>
 </tr>
 </tbody></table>
 
