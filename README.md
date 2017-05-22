@@ -27,7 +27,7 @@
 
 <tr>
 <td><strong>10:30am - 1:00pm Module 2</strong></td>
-<td>Postal Service Challenge & Auth Talk<!--Monday Morning--></td>
+<td>Postal Service Challenge & <a href="https://github.com/wdi-atx-11/website-auth">Auth Talk</a><!--Monday Morning--></td>
 <td><a href=" ">Auth-0 Intro</a><!--Tuesday Morning--></td>
 <td><a href=" ">O-Auth Intro</a> && Outcomes<!--Wednesday Morning--></td>
 <td><a href=" ">Firebase</a><!--Thursday Morning--></td>
@@ -36,7 +36,7 @@
 
 <tr>
 <td><strong>2:00pm - 3:30pm Module 3</strong></td>
-<td>NodeJS & JWT<!--Monday Afternoon--></td>
+<td><a href="https://github.com/wdi-atx-11/node-express-jwt-tokens">NodeJS & JWT</a><!--Monday Afternoon--></td>
 <td><a href=" ">Auth-0 Intro</a><!--Tuesday Afternoon--></td>
 <td><a href=" ">O-Auth</a><!--Wednesday Afternoon--></td>
 <td><a href=" ">Testing!</a> <!--Thursday Afternoon--></td>
