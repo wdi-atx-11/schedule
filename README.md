@@ -27,7 +27,7 @@
 
 <tr>
 <td><strong>10:30am - 1:00pm Module 2</strong></td>
-<td>Postal Service Challenge & <a href="https://github.com/wdi-atx-11/website-auth">Auth Talk</a><!--Monday Morning--></td>
+<td><a href="https://github.com/wdi-atx-11/secret-keys">Postal Service Challenge</a> & <a href="https://github.com/wdi-atx-11/website-auth">Auth Talk</a><!--Monday Morning--></td>
 <td><a href=" ">Auth-0 Intro</a><!--Tuesday Morning--></td>
 <td><a href=" ">O-Auth Intro</a> && Outcomes<!--Wednesday Morning--></td>
 <td><a href=" ">Firebase</a><!--Thursday Morning--></td>
