@@ -2,6 +2,67 @@
 ![General Assembly WDI-ATX-11](https://cloud.githubusercontent.com/assets/4304660/24909320/46e07912-1e78-11e7-9424-8dc62f005e53.jpg)
 
 ## Unit 2: Back-End Development
+#### Week 3 - Auth and other goodies
+
+<table><thead>
+<tr>
+<th>Time</th>
+<th>Day 1</th>
+<th>Day 2</th>
+<th>Day 3</th>
+<th>Day 4</th>
+<th>Day 5</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td><strong>9:00am - 10:30am Module 1</strong></td>
+<td>Personal API Show and Tell<!--Monday Drills--></td>
+<td>Merge Sort<!--Tuesday Drills--></td>
+<td>Radix Sort<!--Wednesday Drills--></td>
+<td>Interview Challenges<!--Thursday Drills--></td>
+<td>Review<!--Friday Drills--></td>
+</tr>
+
+<tr>
+<td><strong>10:30am - 1:00pm Module 2</strong></td>
+<td>Postal Service Challenge & Auth Talk<!--Monday Morning--></td>
+<td><a href=" ">Auth-0 Intro</a><!--Tuesday Morning--></td>
+<td><a href=" ">O-Auth Intro</a> && Outcomes<!--Wednesday Morning--></td>
+<td><a href=" ">Firebase</a><!--Thursday Morning--></td>
+<td><a href=" ">Project 1 Introduction</a><!--Friday Morning--></td>
+</tr>
+
+<tr>
+<td><strong>2:00pm - 3:30pm Module 3</strong></td>
+<td>NodeJS & JWT<!--Monday Afternoon--></td>
+<td><a href=" ">Auth-0 Intro</a><!--Tuesday Afternoon--></td>
+<td><a href=" ">O-Auth</a><!--Wednesday Afternoon--></td>
+<td><a href=" ">Testing!</a> <!--Thursday Afternoon--></td>
+<td><a href=" ">Project 1</a><!--Friday Afternoon--></td>
+</tr>
+
+<tr>
+<td><strong>3:30pm - 4:30pm Module 4</strong></td>
+<td>NodeJS & JWT<!--Monday Dusk--></td>
+<td><a href=" ">Auth-0 Lab</a><!--Tuesday Dusk--></td>
+<td><a href=" ">O-Auth Lab</a><!--Wednesday Dusk--></td>
+<td><a href=" ">Testing!</a><!--Thursday Dusk--></td>
+<td><a href=" ">Project 1</a><!--Friday Dusk--></td>
+</tr>
+
+<tr>
+<td><strong>Training / Office Hours</strong></td>
+<td>Update Portfolio<!--Monday HW--></td>
+<td><a href=" ">Auth-0 Lab</a><!--Tuesday HW--></td>
+<td><a href=" ">O-Auth Lab</a><!--Wednesday HW--></td>
+<td><a href=" ">Testing HW</a><!--Thursday HW--></td>
+<td><a href=" ">Project 1</a><!--Friday HW--></td>
+</tr>
+</tbody></table>
+
+## Unit 2: Back-End Development
 #### Week 4 - Express, Mongoose, and MongoDB
 
 <table><thead>
