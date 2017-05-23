@@ -28,8 +28,8 @@
 <tr>
 <td><strong>10:30am - 1:00pm Module 2</strong></td>
 <td><a href="https://github.com/wdi-atx-11/secret-keys">Postal Service Challenge</a> & <a href="https://github.com/wdi-atx-11/website-auth">Auth Talk</a> && <a href="https://github.com/wdi-atx-11/express-simple-auth">BCrypt Auth Tutorial</a><!--Monday Morning--></td>
-<td><a href=" ">Auth-0 Intro</a><!--Tuesday Morning--></td>
-<td><a href=" ">O-Auth Intro</a> && Outcomes<!--Wednesday Morning--></td>
+<td><a href="https://github.com/wdi-atx-11/node-express-local-auth">Passport Local Auth</a><!--Tuesday Morning--></td>
+<td><a href=" ">O-Auth</a> && Outcomes<!--Wednesday Morning--></td>
 <td><a href=" ">Firebase</a><!--Thursday Morning--></td>
 <td><a href=" ">Project 1 Introduction</a><!--Friday Morning--></td>
 </tr>
@@ -37,7 +37,7 @@
 <tr>
 <td><strong>2:00pm - 3:30pm Module 3</strong></td>
 <td><a href="https://github.com/wdi-atx-11/node-express-jwt-tokens">NodeJS & JWT</a><!--Monday Afternoon--></td>
-<td><a href=" ">Auth-0 Intro</a><!--Tuesday Afternoon--></td>
+<td><a href="">O-Auth </a><!--Tuesday Afternoon--></td>
 <td><a href=" ">O-Auth</a><!--Wednesday Afternoon--></td>
 <td><a href=" ">Testing!</a> <!--Thursday Afternoon--></td>
 <td><a href=" ">Project 1</a><!--Friday Afternoon--></td>
