@@ -29,7 +29,7 @@
 <td><strong>10:30am - 1:00pm Module 2</strong></td>
 <td><a href="https://github.com/wdi-atx-11/secret-keys">Postal Service Challenge</a> & <a href="https://github.com/wdi-atx-11/website-auth">Auth Talk</a> && <a href="https://github.com/wdi-atx-11/express-simple-auth">BCrypt Auth Tutorial</a><!--Monday Morning--></td>
 <td><a href="https://github.com/wdi-atx-11/node-express-local-auth">Passport Local Auth</a><!--Tuesday Morning--></td>
-<td><a href=" ">O-Auth</a> && Outcomes<!--Wednesday Morning--></td>
+<td><a href=" ">OAuth</a> && Outcomes<!--Wednesday Morning--></td>
 <td><a href=" ">Firebase</a><!--Thursday Morning--></td>
 <td><a href=" ">Project 1 Introduction</a><!--Friday Morning--></td>
 </tr>
@@ -37,8 +37,8 @@
 <tr>
 <td><strong>2:00pm - 3:30pm Module 3</strong></td>
 <td><a href="https://github.com/wdi-atx-11/node-express-jwt-tokens">NodeJS & JWT</a><!--Monday Afternoon--></td>
-<td><a href="">O-Auth </a><!--Tuesday Afternoon--></td>
-<td><a href=" ">O-Auth</a><!--Wednesday Afternoon--></td>
+<td><a href="https://github.com/wdi-atx-11/node-express-oauth">O-Auth </a><!--Tuesday Afternoon--></td>
+<td><a href=" ">OAuth</a><!--Wednesday Afternoon--></td>
 <td><a href=" ">Testing!</a> <!--Thursday Afternoon--></td>
 <td><a href=" ">Project 1</a><!--Friday Afternoon--></td>
 </tr>
@@ -46,8 +46,8 @@
 <tr>
 <td><strong>3:30pm - 4:30pm Module 4</strong></td>
 <td>NodeJS & JWT<!--Monday Dusk--></td>
-<td><a href=" ">Auth-0 Lab</a><!--Tuesday Dusk--></td>
-<td><a href=" ">O-Auth Lab</a><!--Wednesday Dusk--></td>
+<td><a href="https://github.com/wdi-atx-11/node-express-oauth">O-Auth Lab</a><!--Tuesday Dusk--></td>
+<td><a href=" ">OAuth Lab</a><!--Wednesday Dusk--></td>
 <td><a href=" ">Testing!</a><!--Thursday Dusk--></td>
 <td><a href=" ">Project 1</a><!--Friday Dusk--></td>
 </tr>
@@ -55,8 +55,8 @@
 <tr>
 <td><strong>Training / Office Hours</strong></td>
 <td>Update Portfolio<!--Monday HW--></td>
-<td><a href=" ">Auth-0 Lab</a><!--Tuesday HW--></td>
-<td><a href=" ">O-Auth Lab</a><!--Wednesday HW--></td>
+<td><a href="https://github.com/wdi-atx-11/node-express-oauth">OAuth Lab</a><!--Tuesday HW--></td>
+<td><a href=" ">OAuth Lab</a><!--Wednesday HW--></td>
 <td><a href=" ">Testing HW</a><!--Thursday HW--></td>
 <td><a href=" ">Project 1</a><!--Friday HW--></td>
 </tr>
