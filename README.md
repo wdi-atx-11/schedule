@@ -19,7 +19,7 @@
 <tr>
 <td><strong>9:00am - 10:30am Module 1</strong></td>
 <td>Personal API Show and Tell<!--Monday Drills--></td>
-<td>Merge Sort<!--Tuesday Drills--></td>
+<td><a href="https://github.com/wdi-atx-11/mergesort">Merge Sort</a><!--Tuesday Drills--></td>
 <td>Radix Sort<!--Wednesday Drills--></td>
 <td>Interview Challenges<!--Thursday Drills--></td>
 <td>Review<!--Friday Drills--></td>
