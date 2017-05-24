@@ -20,7 +20,7 @@
 <td><strong>9:00am - 10:30am Module 1</strong></td>
 <td>Personal API Show and Tell<!--Monday Drills--></td>
 <td><a href="https://github.com/wdi-atx-11/mergesort">Merge Sort</a><!--Tuesday Drills--></td>
-<td>Radix Sort<!--Wednesday Drills--></td>
+<td><a href="https://github.com/SF-WDI-LABS/js-algorithms-drills/tree/master/max-contig-subarray">JS Algorithm Drills #1</a> && <a href="https://github.com/SF-WDI-LABS/js-algorithms-drills/tree/master/duplicate-in-array">JS Algorithm Drills #2</a><!--Wednesday Drills--></td>
 <td>Interview Challenges<!--Thursday Drills--></td>
 <td>Review<!--Friday Drills--></td>
 </tr>
