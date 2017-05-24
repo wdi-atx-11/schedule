@@ -29,7 +29,7 @@
 <td><strong>10:30am - 1:00pm Module 2</strong></td>
 <td><a href="https://github.com/wdi-atx-11/secret-keys">Postal Service Challenge</a> & <a href="https://github.com/wdi-atx-11/website-auth">Auth Talk</a> && <a href="https://github.com/wdi-atx-11/express-simple-auth">BCrypt Auth Tutorial</a><!--Monday Morning--></td>
 <td><a href="https://github.com/wdi-atx-11/node-express-local-auth">Passport Local Auth</a><!--Tuesday Morning--></td>
-<td><a href=" ">OAuth</a> && Outcomes<!--Wednesday Morning--></td>
+<td><a href="https://github.com/justincastilla/node-express-oauth/blob/master/README.md">OAuth</a> && Outcomes<!--Wednesday Morning--></td>
 <td><a href=" ">Firebase</a><!--Thursday Morning--></td>
 <td><a href=" ">Project 1 Introduction</a><!--Friday Morning--></td>
 </tr>
