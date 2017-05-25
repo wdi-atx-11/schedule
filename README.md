@@ -39,7 +39,7 @@
 <td><a href="https://github.com/wdi-atx-11/node-express-jwt-tokens">NodeJS & JWT</a><!--Monday Afternoon--></td>
 <td><a href="https://github.com/wdi-atx-11/node-express-oauth">O-Auth </a><!--Tuesday Afternoon--></td>
 <td><a href="https://github.com/wdi-atx-11/passport-auth-lab">OAuth Lab</a><!--Wednesday Afternoon--></td>
-<td><a href="https://github.com/wdi-atx-11/curriculum/tree/master/resources/06-testing/node-mocha-testing-intro">Testing!</a> <!--Thursday Afternoon--></td>
+<td><a href="https://github.com/wdi-atx-11/testing">Testing!</a> <!--Thursday Afternoon--></td>
 <td><a href=" ">Project 1</a><!--Friday Afternoon--></td>
 </tr>
 
@@ -48,7 +48,7 @@
 <td>NodeJS & JWT<!--Monday Dusk--></td>
 <td><a href="https://github.com/wdi-atx-11/node-express-oauth">O-Auth Lab</a><!--Tuesday Dusk--></td>
 <td><a href="https://github.com/wdi-atx-11/passport-auth-lab">OAuth Lab</a><!--Wednesday Dusk--></td>
-<td><a href="https://github.com/wdi-atx-11/curriculum/tree/master/resources/06-testing/node-mocha-testing-intro">Testing!</a><!--Thursday Dusk--></td>
+<td><a href="https://github.com/wdi-atx-11/testing">Testing!</a><!--Thursday Dusk--></td>
 <td><a href=" ">Project 1</a><!--Friday Dusk--></td>
 </tr>
 
@@ -57,7 +57,7 @@
 <td>Update Portfolio<!--Monday HW--></td>
 <td><a href="https://github.com/wdi-atx-11/node-express-oauth">OAuth Lab</a><!--Tuesday HW--></td>
 <td><a href=" ">OAuth Lab</a><!--Wednesday HW--></td>
-<td><a href=" ">Testing HW</a><!--Thursday HW--></td>
+<td><a href="https://github.com/wdi-atx-11/testing/tree/master/node-testing-mocha-chai-lab">Testing HW</a><!--Thursday HW--></td>
 <td><a href=" ">Project 1</a><!--Friday HW--></td>
 </tr>
 </tbody></table>
