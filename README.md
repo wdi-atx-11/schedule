@@ -31,7 +31,7 @@
 <td><a href="https://github.com/wdi-atx-11/node-express-local-auth">Passport Local Auth</a><!--Tuesday Morning--></td>
 <td><a href="https://github.com/justincastilla/node-express-oauth/blob/master/README.md">OAuth</a> && Outcomes<!--Wednesday Morning--></td>
 <td><a href=" ">Firebase</a><!--Thursday Morning--></td>
-<td><a href=" ">Project 1 Introduction</a><!--Friday Morning--></td>
+<td><a href="https://github.com/wdi-atx-11/project-01">Project 1 Introduction</a><!--Friday Morning--></td>
 </tr>
 
 <tr>
@@ -40,7 +40,7 @@
 <td><a href="https://github.com/wdi-atx-11/node-express-oauth">O-Auth </a><!--Tuesday Afternoon--></td>
 <td><a href="https://github.com/wdi-atx-11/passport-auth-lab">OAuth Lab</a><!--Wednesday Afternoon--></td>
 <td><a href="https://github.com/wdi-atx-11/testing">Testing!</a> <!--Thursday Afternoon--></td>
-<td><a href=" ">Project 1</a><!--Friday Afternoon--></td>
+<td><a href="https://github.com/wdi-atx-11/project-01">Project 1</a><!--Friday Afternoon--></td>
 </tr>
 
 <tr>
@@ -49,7 +49,7 @@
 <td><a href="https://github.com/wdi-atx-11/node-express-oauth">O-Auth Lab</a><!--Tuesday Dusk--></td>
 <td><a href="https://github.com/wdi-atx-11/passport-auth-lab">OAuth Lab</a><!--Wednesday Dusk--></td>
 <td><a href="https://github.com/wdi-atx-11/testing">Testing!</a><!--Thursday Dusk--></td>
-<td><a href=" ">Project 1</a><!--Friday Dusk--></td>
+<td><a href="https://github.com/wdi-atx-11/project-01">Project 1</a><!--Friday Dusk--></td>
 </tr>
 
 <tr>
@@ -58,7 +58,7 @@
 <td><a href="https://github.com/wdi-atx-11/node-express-oauth">OAuth Lab</a><!--Tuesday HW--></td>
 <td><a href=" ">OAuth Lab</a><!--Wednesday HW--></td>
 <td><a href="https://github.com/wdi-atx-11/testing/tree/master/node-testing-mocha-chai-lab">Testing HW</a><!--Thursday HW--></td>
-<td><a href=" ">Project 1</a><!--Friday HW--></td>
+<td><a href="https://github.com/wdi-atx-11/project-01">Project 1</a><!--Friday HW--></td>
 </tr>
 </tbody></table>
 
