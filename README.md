@@ -1,8 +1,71 @@
-
 ![General Assembly WDI-ATX-11](https://cloud.githubusercontent.com/assets/4304660/24909320/46e07912-1e78-11e7-9424-8dc62f005e53.jpg)
 
+## Unit 3: Front-End Frameworks
+#### Week 7 - Getting Acute with Angular (Don't be obtuse!)
+
+<table><thead>
+<tr>
+<th>Time</th>
+<th>Day 1</th>
+<th>Day 2</th>
+<th>Day 3</th>
+<th>Day 4</th>
+<th>Day 5</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td><strong>9:00am - 10:30am Module 1</strong></td>
+<td><a href="https://github.com/wdi-atx-11/intro-angular">Angular Intro</a><!--Monday Drills--></td>
+<td><a href="https://github.com/wdi-atx-11/ng-read-create">$http CREATE & READ</a><!--Tuesday Drills--></td>
+<td><a href="https://github.com/generalassembly-atx/angular-routing">Client-side Routing</a><!--Wednesday Drills--></td>
+<td><a href="https://github.com/wdi-atx-11/tunely-angular">Tunely Angular Sprint 5<!--Thursday Drills--></td>
+<td>Review<!--Friday Drills--></td>
+</tr>
+
+<tr>
+<td><strong>10:30am - 1:00pm Module 2</strong></td>
+<td><a href="https://github.com/wdi-atx-11/angular_directives_lab">Angular Directives</a><!--Monday Morning--></td>
+<td><a href="https://github.com/wdi-atx-11/ng-read-create">$http CREATE & READ</a> && 
+<a href="https://github.com/wdi-atx-11/tunely-angular">Tunely Sprint 2</a><!--Tuesday Morning--></td>
+<td><a href="https://github.com/wdi-atx-11/tunely-angular">Tunely Angular Sprint 4</a> && Outcomes<!--Wednesday Morning--></td>
+<td><a href="https://github.com/wdi-atx-11/tunely-angular">Tunely Angular Sprint 5</a><!--Thursday Morning--></td>
+<td><a href="https://github.com/wdi-atx-11/angular-weekend-crud">Make your own CRUD!!!</a><!--Friday Morning--></td>
+</tr></a>
+
+<tr>
+<td><strong>2:00pm - 3:30pm Module 3</strong></td>
+<td><a href="https://github.com/wdi-atx-11/tunely-angular">Tunely Angular Sprint 1</a><!--Monday Afternoon--></td>
+<td><a href="https://github.com/wdi-atx-11/ng-update-delete">$http UPDATE & DELETE</a><!--Tuesday Afternoon--></td>
+<td><a href="https://github.com/wdi-atx-11/tunely-angular">Tunely Angular Sprint 4</a><!--Wednesday Afternoon--></td>
+<td><a href="https://github.com/wdi-atx-11/angular-custom-directives">Custom Directives</a> <!--Thursday Afternoon--></td>
+<td><a href="https://github.com/wdi-atx-11/angular-weekend-crud">Make your own CRUD!!!</a><!--Friday Afternoon--></td>
+</tr>
+
+<tr>
+<td><strong>3:30pm - 4:30pm Module 4</strong></td>
+<td><a href="https://github.com/wdi-atx-11/tunely-angular">Tunely (contd.)</a><!--Monday Dusk--></td>
+<td><a href="https://github.com/wdi-atx-11/ng-update-delete">$http UPDATE & DELETE</a> && <a href="https://github.com/wdi-atx-11/tunely-angular"> 
+Tunely Angular Sprint 3"</a><!--Tuesday Dusk--></td>
+<td><a href="https://github.com/wdi-atx-11/angular-pokemon">Angular Pokemon Front-End App</a><!--Wednesday Dusk--></td>
+<td><a href="https://github.com/wdi-atx-11/angular-custom-directives">Custom Directives</a><!--Thursday Dusk--></td>
+<td><a href="https://github.com/wdi-atx-11/angular-weekend-crud">Make your own CRUD!!!</a><!--Friday Dusk--></td>
+</tr>
+
+<tr>
+<td><strong>Training / Office Hours</strong></td>
+<td><a href="https://docs.angularjs.org/api/ng/service/$http">Read this!</a><!--Monday HW--></td>
+<td><a href="https://github.com/wdi-atx-11/angular-movie-lab">"Angular Movie Lab</a>
+<a href="https://github.com/wdi-atx-11/tunely-angular">Finish Sprint 2 & 3"</a><!--Tuesday HW--></td>
+<td><a href="https://github.com/wdi-atx-11/angular-pokemon">Finish Pokemon</a><!--Wednesday HW--></td>
+<td>Finish Tunely, Pokemon, & Cards against humanity<!--Thursday HW--></td>
+<td><a href="https://github.com/wdi-atx-11/angular-weekend-crud">Make your own CRUD!!!</a><!--Friday HW--></td>
+</tr>
+</tbody></table>
+
 ## Unit 2: Back-End Development
-#### Week 3 - Auth and other goodies
+#### Week 5 - Auth and other goodies
 
 <table><thead>
 <tr>
