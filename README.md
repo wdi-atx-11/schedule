@@ -55,8 +55,7 @@ Tunely Angular Sprint 3"</a><!--Tuesday Dusk--></td>
 
 <tr>
 <td><strong>Training / Office Hours</strong></td>
-<td><a href="https://docs.angularjs.org/api/ng/service/$http">Read this!</a><!--Monday HW--></td>
-<td><a href="https://github.com/wdi-atx-11/angular-movie-lab">"Angular Movie Lab</a>
+<td><a href="https://docs.angularjs.org/api/ng/service/$http">Read this!</a> && <a href="https://github.com/wdi-atx-11/angular-movie-lab">Do this!</a><!--Monday HW--></td>
 <a href="https://github.com/wdi-atx-11/tunely-angular">Finish Sprint 2 & 3"</a><!--Tuesday HW--></td>
 <td><a href="https://github.com/wdi-atx-11/angular-pokemon">Finish Pokemon</a><!--Wednesday HW--></td>
 <td>Finish Tunely, Pokemon, & Cards against humanity<!--Thursday HW--></td>
