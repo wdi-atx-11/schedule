@@ -1,5 +1,66 @@
 ![General Assembly WDI-ATX-11](https://cloud.githubusercontent.com/assets/4304660/24909320/46e07912-1e78-11e7-9424-8dc62f005e53.jpg)
 
+## Unit 3: Front-End Development
+#### Week 8 - Don't overREACT
+
+<table><thead>
+<tr>
+<th>Time</th>
+<th>Day 1</th>
+<th>Day 2</th>
+<th>Day 3</th>
+<th>Day 4</th>
+<th>Day 5</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td><strong>9:00am - 10:30am Module 1</strong></td>
+<td><a href="https://github.com/wdi-atx-11/es6">ES6</a><!--Monday Drills--></td>
+<td>React TODO<!--Tuesday Drills--></td>
+<td>Demeter analytics<!--Wednesday Drills--></td>
+<td>Persephone CSS management<!--Thursday Drills--></td>
+<td>Review<!--Friday Drills--></td>
+</tr>
+
+<tr>
+<td><strong>10:30am - 1:00pm Module 2</strong></td>
+<td><a href="https://github.com/wdi-atx-11/react-intro">React Intro</a><!--Monday Morning--></td>
+<td><a href=" ">React TODO</a><!--Tuesday Morning--></td>
+<td><a href=" ">Something Magical</a> && Outcomes<!--Wednesday Morning--></td>
+<td><a href=" ">Sparkly things</a><!--Thursday Morning--></td>
+<td><a href=" ">Project 2</a><!--Friday Morning--></td>
+</tr>
+
+<tr>
+<td><strong>2:00pm - 3:30pm Module 3</strong></td>
+<td><a href="https://github.com/wdi-atx-11/atm-react">ATM React</a><!--Monday Afternoon--></td>
+<td><a href=" ">React TODO</a><!--Tuesday Afternoon--></td>
+<td><a href=" ">PegasusJS</a><!--Wednesday Afternoon--></td>
+<td><a href=" ">Cyclops AI</a> <!--Thursday Afternoon--></td>
+<td><a href=" ">Project 2</a><!--Friday Afternoon--></td>
+</tr>
+
+<tr>
+<td><strong>3:30pm - 4:30pm Module 4</strong></td>
+<td><a href="https://github.com/wdi-atx-11/atm-react">ATM React</a><!--Monday Dusk--></td>
+<td><a href=" ">React TODO</a><!--Tuesday Dusk--></td>
+<td><a href=" ">Cerberus Security</a><!--Wednesday Dusk--></td>
+<td><a href=" ">Siren Notifications</a><!--Thursday Dusk--></td>
+<td><a href=" ">Project 2</a><!--Friday Dusk--></td>
+</tr>
+
+<tr>
+<td><strong>Training / Office Hours</strong></td>
+<td><a href="https://github.com/wdi-atx-11/atm-react">ATM React</a><!--Monday HW--></td>
+<td><a href=" ">React TODOq</a><!--Tuesday HW--></td>
+<td><a href=" ">Comets & RainbowsJS</a><!--Wednesday HW--></td>
+<td><a href=" ">Ulysses JS</a><!--Thursday HW--></td>
+<td><a href=" ">Project 2</a><!--Friday HW--></td>
+</tr>
+</tbody></table>
+
 ## Unit 3: Front-End Frameworks
 #### Week 7 - Getting Acute with Angular (Don't be obtuse!)
 
