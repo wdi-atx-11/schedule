@@ -35,7 +35,7 @@
 
 <tr>
 <td><strong>2:00pm - 3:30pm Module 3</strong></td>
-<td><a href="https://github.com/wdi-atx-11/atm-react">ATM React</a><!--Monday Afternoon--></td>
+<td><a href="https://github.com/wdi-atx-11/react-intro-2">React Intro pt Deuxxx</a><!--Monday Afternoon--></td>
 <td><a href=" ">React TODO</a><!--Tuesday Afternoon--></td>
 <td><a href=" ">PegasusJS</a><!--Wednesday Afternoon--></td>
 <td><a href=" ">Cyclops AI</a> <!--Thursday Afternoon--></td>
