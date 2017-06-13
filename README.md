@@ -18,7 +18,7 @@
 <tr>
 <td><strong>9:00am - 10:30am Module 1</strong></td>
 <td><a href="https://github.com/wdi-atx-11/es6">ES6</a><!--Monday Drills--></td>
-<td>React TODO<!--Tuesday Drills--></td>
+<td><a href="https://github.com/wdi-atx-11/react-todo-walkthrough-jquery">React TODO</a><!--Tuesday Drills--></td>
 <td>Demeter analytics<!--Wednesday Drills--></td>
 <td>Persephone CSS management<!--Thursday Drills--></td>
 <td>Review<!--Friday Drills--></td>
@@ -27,7 +27,7 @@
 <tr>
 <td><strong>10:30am - 1:00pm Module 2</strong></td>
 <td><a href="https://github.com/wdi-atx-11/react-intro">React Intro</a><!--Monday Morning--></td>
-<td><a href=" ">React TODO</a><!--Tuesday Morning--></td>
+<td><a href="https://github.com/wdi-atx-11/react-todo-walkthrough-jquery">React TODO</a><!--Tuesday Morning--></td>
 <td><a href=" ">Something Magical</a> && Outcomes<!--Wednesday Morning--></td>
 <td><a href=" ">Sparkly things</a><!--Thursday Morning--></td>
 <td><a href=" ">Project 2</a><!--Friday Morning--></td>
@@ -36,7 +36,7 @@
 <tr>
 <td><strong>2:00pm - 3:30pm Module 3</strong></td>
 <td><a href="https://github.com/wdi-atx-11/react-intro-2">React Intro pt Deuxxx</a><!--Monday Afternoon--></td>
-<td><a href=" ">React TODO</a><!--Tuesday Afternoon--></td>
+<td><a href="https://github.com/wdi-atx-11/react-todo-walkthrough-jquery">React TODO</a><!--Tuesday Afternoon--></td>
 <td><a href=" ">PegasusJS</a><!--Wednesday Afternoon--></td>
 <td><a href=" ">Cyclops AI</a> <!--Thursday Afternoon--></td>
 <td><a href=" ">Project 2</a><!--Friday Afternoon--></td>
@@ -45,7 +45,7 @@
 <tr>
 <td><strong>3:30pm - 4:30pm Module 4</strong></td>
 <td><a href="https://github.com/wdi-atx-11/atm-react">ATM React</a><!--Monday Dusk--></td>
-<td><a href=" ">React TODO</a><!--Tuesday Dusk--></td>
+<td><a href="https://github.com/wdi-atx-11/react-todo-walkthrough-jquery">React TODO</a><!--Tuesday Dusk--></td>
 <td><a href=" ">Cerberus Security</a><!--Wednesday Dusk--></td>
 <td><a href=" ">Siren Notifications</a><!--Thursday Dusk--></td>
 <td><a href=" ">Project 2</a><!--Friday Dusk--></td>
@@ -54,7 +54,7 @@
 <tr>
 <td><strong>Training / Office Hours</strong></td>
 <td><a href="https://github.com/wdi-atx-11/atm-react">ATM React</a><!--Monday HW--></td>
-<td><a href=" ">React TODOq</a><!--Tuesday HW--></td>
+<td><a href="https://github.com/wdi-atx-11/react-todo-walkthrough-jquery">React TODO</a><!--Tuesday HW--></td>
 <td><a href=" ">Comets & RainbowsJS</a><!--Wednesday HW--></td>
 <td><a href=" ">Ulysses JS</a><!--Thursday HW--></td>
 <td><a href=" ">Project 2</a><!--Friday HW--></td>
