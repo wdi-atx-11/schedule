@@ -19,7 +19,7 @@
 <td><strong>9:00am - 10:30am Module 1</strong></td>
 <td><a href="https://github.com/wdi-atx-11/es6">ES6</a><!--Monday Drills--></td>
 <td><a href="https://github.com/wdi-atx-11/react-todo-walkthrough-jquery">React TODO</a><!--Tuesday Drills--></td>
-<td>Demeter analytics<!--Wednesday Drills--></td>
+<td>Mock Interviews!<!--Wednesday Drills--></td>
 <td>Persephone CSS management<!--Thursday Drills--></td>
 <td>Review<!--Friday Drills--></td>
 </tr>
@@ -28,7 +28,7 @@
 <td><strong>10:30am - 1:00pm Module 2</strong></td>
 <td><a href="https://github.com/wdi-atx-11/react-intro">React Intro</a><!--Monday Morning--></td>
 <td><a href="https://github.com/wdi-atx-11/react-todo-walkthrough-jquery">React TODO</a><!--Tuesday Morning--></td>
-<td><a href=" ">Something Magical</a> && Outcomes<!--Wednesday Morning--></td>
+<td><a href="https://github.com/wdi-atx-11/react-component-lifecycle/blob/master/README.md">Component Lifecycle</a> && Outcomes<!--Wednesday Morning--></td>
 <td><a href=" ">Sparkly things</a><!--Thursday Morning--></td>
 <td><a href=" ">Project 2</a><!--Friday Morning--></td>
 </tr>
