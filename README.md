@@ -38,7 +38,7 @@
 <td><a href="https://github.com/wdi-atx-11/react-intro-2">React Intro pt Deuxxx</a><!--Monday Afternoon--></td>
 <td><a href="https://github.com/wdi-atx-11/react-todo-walkthrough-jquery">React TODO</a><!--Tuesday Afternoon--></td>
 <td><a href="https://github.com/wdi-atx-11/react-router-dentist-website">React-Router</a><!--Wednesday Afternoon--></td>
-<td><a href="https://github.com/wdi-atx-11/MERN-CRUD-Lab">MERN-CRUD Lab</a><!--Thursday Afternoon--></td>
+<td><a href="https://github.com/wdi-atx-11/firebase-auth">Firebase Authb</a><!--Thursday Afternoon--></td>
 <td><a href=" ">Project 2</a><!--Friday Afternoon--></td>
 </tr>
 
@@ -47,7 +47,7 @@
 <td><a href="https://github.com/wdi-atx-11/atm-react">ATM React</a><!--Monday Dusk--></td>
 <td><a href="https://github.com/wdi-atx-11/react-todo-walkthrough-jquery">React TODO</a><!--Tuesday Dusk--></td>
 <td><a href=" ">Cerberus Security</a><!--Wednesday Dusk--></td>
-<td><a href="https://github.com/wdi-atx-11/MERN-CRUD-Lab">MERN-CRUD Lab</a><!--Thursday Dusk--></td>
+<td><a href="https://github.com/wdi-atx-11/firebase-auth">Firebase Authb</a><!--Thursday Dusk--></td>
 <td><a href=" ">Project 2</a><!--Friday Dusk--></td>
 </tr>
 
@@ -56,7 +56,7 @@
 <td><a href="https://github.com/wdi-atx-11/atm-react">ATM React</a><!--Monday HW--></td>
 <td><a href="https://github.com/wdi-atx-11/react-todo-walkthrough-jquery">React TODO</a><!--Tuesday HW--></td>
 <td><a href=" ">Comets & RainbowsJS</a><!--Wednesday HW--></td>
-<td><a href="https://github.com/wdi-atx-11/MERN-CRUD-Lab">MERN-CRUD Lab</a><!--Thursday HW--></td>
+<td><a href="https://github.com/wdi-atx-11/firebase-auth">Firebase Authb</a><!--Thursday HW--></td>
 <td><a href=" ">Project 2</a><!--Friday HW--></td>
 </tr>
 </tbody></table>
