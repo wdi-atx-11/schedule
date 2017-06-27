@@ -20,7 +20,7 @@
 <td><strong>9:00am - 10:30am Module 1</strong></td>
 <td><a href="https://github.com/wdi-atx-11/python">Python!</a><!--Monday Drills--></td>
 
-<td><a href="https://github.com/wdi-atx-11/">Python Classes!</a><!--Tuesday Drills--></td>
+<td><a href="https://github.com/wdi-atx-11/python-classes">Python Classes!</a><!--Tuesday Drills--></td>
 
 <td>Graphing Algorithms!!<!--Wednesday Drills--></td>
 
@@ -34,7 +34,7 @@
 <td><strong>10:30am - 1:00pm Module 2</strong></td>
 <td><a href="https://github.com/wdi-atx-11/python">Python!</a><!--Monday Morning--></td>
 
-<td><a href="https://github.com/wdi-atx-11/">Python Class Inheritance!</a><!--Tuesday Morning--></td>
+<td><a href="https://github.com/wdi-atx-11/python-class-inheritance>Python Class Inheritance!</a><!--Tuesday Morning--></td>
 
 
 <td><a href="https://github.com/wdi-atx-11/">Python!</a> && Outcomes<!--Wednesday Morning--></td>
