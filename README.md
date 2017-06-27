@@ -20,7 +20,7 @@
 <td><strong>9:00am - 10:30am Module 1</strong></td>
 <td><a href="https://github.com/wdi-atx-11/python">Python!</a><!--Monday Drills--></td>
 
-<td><a href="https://github.com/wdi-atx-11/">Python Lists & Dictionaries!</a><!--Tuesday Drills--></td>
+<td><a href="https://github.com/wdi-atx-11/">Python Classes!</a><!--Tuesday Drills--></td>
 
 <td>Graphing Algorithms!!<!--Wednesday Drills--></td>
 
@@ -34,7 +34,7 @@
 <td><strong>10:30am - 1:00pm Module 2</strong></td>
 <td><a href="https://github.com/wdi-atx-11/python">Python!</a><!--Monday Morning--></td>
 
-<td><a href="https://github.com/wdi-atx-11/">Python Classes!</a><!--Tuesday Morning--></td>
+<td><a href="https://github.com/wdi-atx-11/">Python Class Inheritance!</a><!--Tuesday Morning--></td>
 
 
 <td><a href="https://github.com/wdi-atx-11/">Python!</a> && Outcomes<!--Wednesday Morning--></td>
@@ -47,7 +47,7 @@
 <tr>
 <td><strong>2:00pm - 3:30pm Module 3</strong></td>
 <td><a href="https://github.com/wdi-atx-11/python_challenges">Python Challenges!</a><!--Monday Afternoon--></td>
-<td><a href="https://github.com/wdi-atx-11/">Classic Python Algorithms</a><!--Tuesday Afternoon--></td>
+<td><a href="https://github.com/wdi-atx-11/">Python Deck o' Cards!</a><!--Tuesday Afternoon--></td>
 <td><a href="https://github.com/wdi-atx-11/">Python!</a><!--Wednesday Afternoon--></td>
 <td><a href="https://github.com/wdi-atx-11/">Python!</a><!--Thursday Afternoon--></td>
 <td><a href="https://github.com/wdi-atx-11/">Python!</a><!--Friday Afternoon--></td>
@@ -56,7 +56,7 @@
 <tr>
 <td><strong>3:30pm - 4:30pm Module 4</strong></td>
 <td><a href="https://github.com/wdi-atx-11/python_challenges">Python Challenges!</a><!--Monday Dusk--></td>
-<td><a href="https://github.com/wdi-atx-11/">Modern Python Algorithms!</a><!--Tuesday Dusk--></td>
+<td><a href="https://github.com/wdi-atx-11/">Python Deck o' Cards!</a><!--Tuesday Dusk--></td>
 <td><a href="https://github.com/wdi-atx-11/">Python!</a><!--Wednesday Dusk--></td>
 <td><a href="https://github.com/wdi-atx-11/">Python!</a><!--Thursday Dusk--></td>
 <td><a href="https://github.com/wdi-atx-11/">Python!</a><!--Friday Dusk--></td>
@@ -65,7 +65,7 @@
 <tr>
 <td><strong>Training / Office Hours</strong></td>
 <td><a href="https://github.com/wdi-atx-11/atm-react">Python Challenges!</a><!--Monday HW--></td>
-<td><a href="https://github.com/wdi-atx-11/react-todo-walkthrough-jquery">Python Algorithms!</a><!--Tuesday HW--></td>
+<td><a href="https://github.com/wdi-atx-11/react-todo-walkthrough-jquery">Python Deck o' Cards!</a><!--Tuesday HW--></td>
 <td><a href="https://github.com/wdi-atx-11/">Python Choose your own adventure!</a><!--Wednesday HW--></td>
 <td><a href="https://github.com/wdi-atx-11/">Python!</a><!--Thursday HW--></td>
 <td><a href="https://github.com/wdi-atx-11/">Python!</a><!--Friday HW--></td>
