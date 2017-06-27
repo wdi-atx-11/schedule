@@ -34,7 +34,7 @@
 <td><strong>10:30am - 1:00pm Module 2</strong></td>
 <td><a href="https://github.com/wdi-atx-11/python">Python!</a><!--Monday Morning--></td>
 
-<td><a href="https://github.com/wdi-atx-11/python-class-inheritance>Python Class Inheritance!</a><!--Tuesday Morning--></td>
+<td><a href="https://github.com/wdi-atx-11/python-class-inheritance">Python Class Inheritance!</a><!--Tuesday Morning--></td>
 
 
 <td><a href="https://github.com/wdi-atx-11/">Python!</a> && Outcomes<!--Wednesday Morning--></td>
