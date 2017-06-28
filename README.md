@@ -22,7 +22,7 @@
 
 <td><a href="https://github.com/wdi-atx-11/python-classes">Python Classes!</a><!--Tuesday Drills--></td>
 
-<td>HashMaps and You!<!--Wednesday Drills--></td>
+<td><a href="https://github.com/wdi-atx-11/hash-map-lab">HashMaps and You!<!--Wednesday Drills--></td>
 
 <td><a href="https://github.com/wdi-atx-11/">Python!</a><!--Thursday Drills--></td>
 
