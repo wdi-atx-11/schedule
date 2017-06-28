@@ -22,7 +22,7 @@
 
 <td><a href="https://github.com/wdi-atx-11/python-classes">Python Classes!</a><!--Tuesday Drills--></td>
 
-<td>Graphing Algorithms!!<!--Wednesday Drills--></td>
+<td>HashMaps and You!<!--Wednesday Drills--></td>
 
 <td><a href="https://github.com/wdi-atx-11/">Python!</a><!--Thursday Drills--></td>
 
@@ -37,9 +37,9 @@
 <td><a href="https://github.com/wdi-atx-11/python-class-inheritance">Python Class Inheritance!</a><!--Tuesday Morning--></td>
 
 
-<td><a href="https://github.com/wdi-atx-11/">Python!</a> && Outcomes<!--Wednesday Morning--></td>
+<td><a href="https://github.com/wdi-atx-11/intro-sql">SQL and You!</a> && Outcomes<!--Wednesday Morning--></td>
 
-<td><a href="https://github.com/wdi-atx-11/">Python!</a><!--Thursday Morning--></td>
+<td><a href="https://github.com/wdi-atx-11/sql-carmen-sandiego">Python!</a><!--Thursday Morning--></td>
 
 <td><a href="https://github.com/wdi-atx-11/">Python!</a><!--Friday Morning--></td>
 </tr>
@@ -48,7 +48,7 @@
 <td><strong>2:00pm - 3:30pm Module 3</strong></td>
 <td><a href="https://github.com/wdi-atx-11/python_challenges">Python Challenges!</a><!--Monday Afternoon--></td>
 <td><a href="https://github.com/wdi-atx-11/">Python Deck o' Cards!</a><!--Tuesday Afternoon--></td>
-<td><a href="https://github.com/wdi-atx-11/">Python!</a><!--Wednesday Afternoon--></td>
+<td><a href="https://github.com/wdi-atx-11/sql-carmen-sandiego">SQL, Carmen San Diego, and You!</a><!--Wednesday Afternoon--></td>
 <td><a href="https://github.com/wdi-atx-11/">Python!</a><!--Thursday Afternoon--></td>
 <td><a href="https://github.com/wdi-atx-11/">Python!</a><!--Friday Afternoon--></td>
 </tr>
