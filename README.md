@@ -49,7 +49,7 @@
 <td><a href="https://github.com/wdi-atx-11/python_challenges">Python Challenges!</a><!--Monday Afternoon--></td>
 <td><a href="https://github.com/wdi-atx-11/">Python Deck o' Cards!</a><!--Tuesday Afternoon--></td>
 <td><a href="https://github.com/wdi-atx-11/sql-carmen-sandiego">SQL, Carmen San Diego, and You!</a><!--Wednesday Afternoon--></td>
-<td><a href="https://github.com/wdi-atx-11/">Python!</a><!--Thursday Afternoon--></td>
+<td><a href="https://github.com/wdi-atx-11/TreasureGram">Django!</a><!--Thursday Afternoon--></td>
 <td><a href="https://github.com/wdi-atx-11/">Python!</a><!--Friday Afternoon--></td>
 </tr>
 
