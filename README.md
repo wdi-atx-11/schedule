@@ -24,7 +24,7 @@
 
 <td><a href="https://github.com/wdi-atx-11/hash-map-lab">HashMaps and You!<!--Wednesday Drills--></td>
 
-<td><a href="https://github.com/wdi-atx-11/">Python!</a><!--Thursday Drills--></td>
+<td><a href="https://github.com/wdi-atx-11/TreasureGram">Django!</a><!--Thursday Drills--></td>
 
 <td><a href="https://github.com/wdi-atx-11/">Python!</a><!--Friday Drills--></td>
 
@@ -39,7 +39,7 @@
 
 <td><a href="https://github.com/wdi-atx-11/intro-sql">SQL and You!</a> && Outcomes<!--Wednesday Morning--></td>
 
-<td><a href="https://github.com/wdi-atx-11/sql-carmen-sandiego">Python!</a><!--Thursday Morning--></td>
+<td><a href="https://github.com/wdi-atx-11/TreasureGram">Django!</a><!--Thursday Morning--></td>
 
 <td><a href="https://github.com/wdi-atx-11/">Python!</a><!--Friday Morning--></td>
 </tr>
@@ -58,7 +58,7 @@
 <td><a href="https://github.com/wdi-atx-11/python_challenges">Python Challenges!</a><!--Monday Dusk--></td>
 <td><a href="https://github.com/wdi-atx-11/">Python Deck o' Cards!</a><!--Tuesday Dusk--></td>
 <td><a href="https://github.com/wdi-atx-11/">Python!</a><!--Wednesday Dusk--></td>
-<td><a href="https://github.com/wdi-atx-11/">Python!</a><!--Thursday Dusk--></td>
+<td><a href="https://github.com/wdi-atx-11/TreasureGram">Django!</a><!--Thursday Dusk--></td>
 <td><a href="https://github.com/wdi-atx-11/">Python!</a><!--Friday Dusk--></td>
 </tr>
 
@@ -67,7 +67,7 @@
 <td><a href="https://github.com/wdi-atx-11/atm-react">Python Challenges!</a><!--Monday HW--></td>
 <td><a href="https://github.com/wdi-atx-11/react-todo-walkthrough-jquery">Python Deck o' Cards!</a><!--Tuesday HW--></td>
 <td><a href="https://github.com/wdi-atx-11/">Python Choose your own adventure!</a><!--Wednesday HW--></td>
-<td><a href="https://github.com/wdi-atx-11/">Python!</a><!--Thursday HW--></td>
+<td><a href="https://github.com/wdi-atx-11/TreasureGram">Django!</a><!--Thursday HW--></td>
 <td><a href="https://github.com/wdi-atx-11/">Python!</a><!--Friday HW--></td>
 </tr>
 </tbody></table>
